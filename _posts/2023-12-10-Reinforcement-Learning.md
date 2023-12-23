@@ -6,8 +6,7 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-This introduction includes Policy Gradient, Taxonomy of RL Algorithms, OpenAI Gym, PyBullet,
-AI in Games, Multi-Agent RL, Imitation Learning , Meta Learning, RL-Stock, Social Tranmission.
+This introduction to Reinforcement Learning.
 
 ---
 ## Introduction of Reinforcement Learning
