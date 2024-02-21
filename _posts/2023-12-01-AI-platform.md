@@ -93,7 +93,9 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
 
 ---
 ## AI chips
-### Brain-like Computing Architecture
+### Neuromorphic Computing
+![](https://www.ece.jhu.edu/dfan/wp-content/uploads/2019/09/brain.jpg)
+
 **Paper:** [An overview of brain-like computing: Architecture, applications, and future trends](https://www.frontiersin.org/articles/10.3389/fnbot.2022.1041108/full)<br>
 ![](https://www.frontiersin.org/files/Articles/1041108/fnbot-16-1041108-HTML-r1/image_m/fnbot-16-1041108-g007.jpg)
 ![](https://www.frontiersin.org/files/Articles/1041108/fnbot-16-1041108-HTML-r1/image_m/fnbot-16-1041108-g009.jpg)
