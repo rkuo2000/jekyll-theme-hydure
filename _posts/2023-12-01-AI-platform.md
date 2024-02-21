@@ -93,8 +93,30 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
 
 ---
 ## AI chips
+### Brain-like Computing Architecture
+**Paper:** [An overview of brain-like computing: Architecture, applications, and future trends](https://www.frontiersin.org/articles/10.3389/fnbot.2022.1041108/full)<br>
+![](https://www.frontiersin.org/files/Articles/1041108/fnbot-16-1041108-HTML-r1/image_m/fnbot-16-1041108-g007.jpg)
+![](https://www.frontiersin.org/files/Articles/1041108/fnbot-16-1041108-HTML-r1/image_m/fnbot-16-1041108-g009.jpg)
+![](https://www.frontiersin.org/files/Articles/1041108/fnbot-16-1041108-HTML-r1/image_m/fnbot-16-1041108-g010.jpg)
+![](https://www.frontiersin.org/files/Articles/1041108/fnbot-16-1041108-HTML-r1/image_m/fnbot-16-1041108-g012.jpg)
 
 ### [Top 10 AI Chip Makers of 2023: In-depth Guide](https://research.aimultiple.com/ai-chip-makers/)
+
+### Groq
+#### [The Groq LPU™ Inference Engine](https://wow.groq.com/lpu-inference-engine/)
+**Paper:** [A Software-defined Tensor Streaming Multiprocessor for Large-scale Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3470496.3527405)
+![](https://imageio.forbes.com/specials-images/imageserve/6037f9807842cbd489fa3801/The-Groq-processor-is-unique--acting-as-a-single-fast-core-with-on-die-memory-/960x0.png?format=png&width=1440)
+![](https://imageio.forbes.com/specials-images/imageserve/6037f9e640b8dd29ddc0607d/The-Groq-node-has-four-chips-per-card--similar-to-most-AI-startups-/960x0.png?format=png&width=1440)
+
+### [Rain AI](https://rain.ai/approach)
+#### Digital In-Memory Compute
+![](https://images.squarespace-cdn.com/content/v1/65343802e6fb0c67c8ecb591/9b225d68-dd82-4597-8678-060fb97e4af6/Screen+Shot+2023-12-01+at+10.00.51+AM.png?format=1000w)
+#### Numerics
+![](https://images.squarespace-cdn.com/content/v1/65343802e6fb0c67c8ecb591/d596c0d7-5516-4573-a6bd-b7a41155fe71/numerics.png?format=1000w)
+
+### [Cerebras](https://www.cerebras.net/blog/cerebras-architecture-deep-dive-first-look-inside-the-hw/sw-co-design-for-deep-learning)
+![](https://www.cerebras.net/wp-content/uploads/2022/08/datapath-dataflow.jpg)
+![](https://www.cerebras.net/wp-content/uploads/2022/08/fabric-uai-1032x696.jpg)
 
 #### [Tesla AI](https://www.tesla.com/AI)
 [Enter Dojo: Tesla Reveals Design for Modular Supercomputer & D1 Chip](https://www.hpcwire.com/2021/08/20/enter-dojo-tesla-reveals-design-for-modular-supercomputer-d1-chip/)<br>
