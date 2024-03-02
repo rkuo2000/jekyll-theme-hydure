@@ -144,12 +144,6 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
 * 支援 UFS 4.0 + 多循環隊列技術（Multi-Circular Queue，MCQ）
 * 高能效 4nm 製程
 
-#### ADI MAX78000
-![](https://i0.wp.com/makerpro.cc/wp-content/uploads/2023/08/EdgeAI_MCU_P1.jpg?resize=1024%2C414&ssl=1)
-
-#### TI MPU: AM62A、AM68A、AM69A
-![](https://i0.wp.com/makerpro.cc/wp-content/uploads/2023/08/1691657090157.jpg?resize=768%2C607&ssl=1)
-
 ---
 ### Kneron 耐能智慧
 * KNEO300 EdgeGPT
@@ -162,7 +156,7 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
   - 支持CNN,Transformer，RNN Hybrid等多種AI模型。
   - 智能ISP可基於AI優化圖像質量，強力Codec實現高效率多媒體壓縮。
   - 冷啟動時間低於500ms，平均功耗低於500mW。
-![](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/Kneron-KL520-devkit.jpg?raw=true)
+![](https://www.everfocus.com/upload/catalog_m/b098f7b0f63a26477cd2cb5d08eb12c0.png)
 
 * KL720 (算力可達0.9 TOPS/W)
 
