@@ -23,6 +23,9 @@ Introduction to Reinforcement Learning for Robot / Drone.
 **Paper:** [ADAM: a robotic companion for enhanced quality of life in aging populations](https://www.frontiersin.org/articles/10.3389/fnbot.2024.1337608/full)<br>
 <iframe width="999" height="562" src="https://www.youtube.com/embed/bWg8qwCe4K0" title="新型模塊化人工智能機器人技術變得更加瘋狂（谷歌 DeepMind 的 RoboTool）" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### [End-to-end Reinforcement Learning of Robotic Manipulation with Robust Keypoints Representation](https://arxiv.org/pdf/2202.06027.pdf)
+![](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/End-to-End_Reinforcement_Learning.png?raw=true)
+
 ---
 ## Embodied AI
 **Blog:** [Overview of Embodied Artificial Intelligence](https://medium.com/machinevision/overview-of-embodied-artificial-intelligence-b7f19d18022)<br>
