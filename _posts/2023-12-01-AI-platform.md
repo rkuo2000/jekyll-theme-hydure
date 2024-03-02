@@ -155,16 +155,16 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
 * KNEO300 EdgeGPT
 <p><img src="https://image-cdn.learnin.tw/bnextmedia/image/album/2023-11/img-1701333658-39165.jpg" width="50%" height="50%"></p>
 
-* KL530 AI SoC
+* KL530
 ![](https://www.kneron.com/tw/_upload/image/solution/large/938617699868711f.jpg)
   - 基於ARM Cortex M4 CPU内核的低功耗性能和高能效設計。
   - 算力達1 TOPS INT 4，在同等硬件條件下比INT 8的處理效率提升高達70%。
   - 支持CNN,Transformer，RNN Hybrid等多種AI模型。
   - 智能ISP可基於AI優化圖像質量，強力Codec實現高效率多媒體壓縮。
   - 冷啟動時間低於500ms，平均功耗低於500mW。
+！[](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/Kneron-KL520-devkit.jpg?raw=true！)
 
-* KL720 AI SoC (算力可達0.9 TOPS/W)
-![](https://www.kneron.com/tw/_upload/image/solution/large/95f4758c9cfd08.png)
+* KL720 (算力可達0.9 TOPS/W)
 
 ---
 ### Realtek AmebaPro2
