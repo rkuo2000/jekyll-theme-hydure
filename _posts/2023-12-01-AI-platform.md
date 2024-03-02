@@ -162,7 +162,7 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
   - 支持CNN,Transformer，RNN Hybrid等多種AI模型。
   - 智能ISP可基於AI優化圖像質量，強力Codec實現高效率多媒體壓縮。
   - 冷啟動時間低於500ms，平均功耗低於500mW。
-！[](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/Kneron-KL520-devkit.jpg?raw=true！)
+！[](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/Kneron-KL520-devkit.jpg?raw=true)
 
 * KL720 (算力可達0.9 TOPS/W)
 
