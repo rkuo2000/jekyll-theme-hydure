@@ -228,6 +228,12 @@ Stable Diffusion in Blender<br>
 **Kaggle:** [https://www.kaggle.com/code/rkuo2000/zero123plus](https://www.kaggle.com/code/rkuo2000/zero123plus)<br>
 **Kaggle:** [https://www.kaggle.com/code/rkuo2000/zero123-controlnet](https://www.kaggle.com/code/rkuo2000/zero123-controlnet)<br>
 
+---
+### TripoSR
+**Blog:** [Introducing TripoSR: Fast 3D Object Generation from Single Images](https://stability.ai/news/triposr-3d-generation)<br>
+**Paper:** [LRM: Large Reconstruction Model for Single Image to 3D](https://yiconghong.me/LRM/)<br>
+**Github:** [https://github.com/VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR)<br>
+`python run.py examples/chair.png --output-dir output/`<br>
 
 <br>
 <br>
