@@ -234,6 +234,7 @@ Stable Diffusion in Blender<br>
 **Paper:** [LRM: Large Reconstruction Model for Single Image to 3D](https://yiconghong.me/LRM/)<br>
 **Github:** [https://github.com/VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR)<br>
 `python run.py examples/chair.png --output-dir output/`<br>
+![](https://yiconghong.me/LRM/static/images/img2nerf_model_figure.jpg)
 
 <br>
 <br>
