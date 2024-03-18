@@ -114,23 +114,8 @@ OpenPose is much more accurate and meant to be ran on GPU powered systems. You c
 
 ---
 ### [YOLOv8 Pose](https://docs.ultralytics.com/tasks/pose/)
-<iframe width="1164" height="655" src="https://www.youtube.com/embed/Y28xXQmju64" title="Episode 6 | Pose Estimation with Ultralytics YOLOv8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 **Kaggle:** [https://www.kaggle.com/rkuo2000/yolov8-pose](https://www.kaggle.com/code/rkuo2000/yolov8-pose)<br>
-
-```
-from ultralytics import YOLO
-
-# Load a model
-model = YOLO('yolov8n-pose.pt')
-
-# Predict on an image
-results = model.predict('/kaggle/input/input-poses/baseball1.jpg', save=True)
-
-# Display Result
-from IPython.display import Image
-Image(filename='runs/pose/predict/baseball1.jpg')
-```
+<iframe width="1164" height="655" src="https://www.youtube.com/embed/Y28xXQmju64" title="Episode 6 | Pose Estimation with Ultralytics YOLOv8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ### Group Pose
@@ -177,6 +162,21 @@ Image(filename='runs/pose/predict/baseball1.jpg')
 
 <iframe width="920" height="520" src="https://user-images.githubusercontent.com/15977946/124654387-0fd3c500-ded1-11eb-84f6-24eeddbf4d91.mp4" title="MMPos Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+### ViTPose
+**Paper:** [ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation
+](https://arxiv.org/abs/2204.12484)<br>
+
+---
+### Human Pose as Compositional Tokens
+**Paper:** [https://arxiv.org/abs/2303.11638](https://arxiv.org/abs/2303.11638)</br>
+**Code:** [https://github.com/gengzigang/pct](https://github.com/gengzigang/pct)<br>
+<table>
+<tr>
+<td><img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_0.gif"></td>
+<td><img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_1.gif"></td>
+</tr>
+</table>
 ---
 ## Face Datasets
 
