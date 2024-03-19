@@ -46,16 +46,16 @@ Pose Estimation includes Applications, Human Pose Estimation, Head Pose Estimati
 **Benchmark:** [https://paperswithcode.com/task/pose-estimation](https://paperswithcode.com/task/pose-estimation)<br>
 
 <table>
-<tr><th>Dataset</th><th>Paper</th><th>Code</th></tr>
+<tr><th>Model Name</th><th>Paper</th><th>Code</th></tr>
 <tr>
-<td>[MPII Human Pose](https://paperswithcode.com/sota/pose-estimation-on-mpii-human-pose)</td>
-<td>[PCT](https://arxiv.org/abs/2303.11638)</td>
-<td>[gengzigang/pct](https://github.com/gengzigang/pct)</td>
+<td>PCT</td>
+<td>https://arxiv.org/abs/2303.11638</td>
+<td>https://github.com/gengzigang/pct</td>
 </tr>
 <tr>
-<td>[COCO test-dev](https://paperswithcode.com/sota/pose-estimation-on-coco-test-dev)</td>
-<td>[ViTPose](https://arxiv.org/abs/2204.12484v3)</td>
-<td>[vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)</td>
+<td>ViTPose</td>
+<td>https://arxiv.org/abs/2204.12484v3</td>
+<td>https://github.com/vitae-transformer/vitpose</td>
 </tr>
 </table>
 	
@@ -74,9 +74,7 @@ Pose Estimation includes Applications, Human Pose Estimation, Head Pose Estimati
 **Code:** [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)<br>
 **Kaggle:** [OpenPose Pytorch](https://www.kaggle.com/code/rkuo2000/openpose-pytorch)<br>
 
-![](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/.github/media/pose_face_hands.gif?raw=true)
-![](https://viso.ai/wp-content/uploads/2021/01/Keypoints-Detected-by-OpenPose-on-the-COCO-Dataset.jpg)
-![](https://media.arxiv-vanity.com/render-output/5509832/x2.png)
+<p><img src="https://viso.ai/wp-content/uploads/2021/01/Keypoints-Detected-by-OpenPose-on-the-COCO-Dataset.jpg"><img src="https://media.arxiv-vanity.com/render-output/5509832/x2.png"></p>
 
 ---
 ### DensePose
@@ -89,12 +87,6 @@ Pose Estimation includes Applications, Human Pose Estimation, Head Pose Estimati
 **Code:** [kevinlin311tw/CDCL-human-part-segmentation](https://github.com/kevinlin311tw/CDCL-human-part-segmentation)
 
 ![](https://github.com/kevinlin311tw/CDCL-human-part-segmentation/blob/master/cdcl_teaser.jpg?raw=true)
-
----
-### UniFormer
-**Paper:** [UniFormer: Unifying Convolution and Self-attention for Visual Recognition](https://arxiv.org/abs/2201.09450)<br>
-**Code:** [open-mmlab/uniformer](https://github.com/open-mmlab/mmpose/tree/main/projects/uniformer)<br>
-![](https://raw.githubusercontent.com/Sense-X/UniFormer/main/figures/framework.png)
 
 ---
 ### YOLO-Pose
@@ -133,10 +125,7 @@ Pose Estimation includes Applications, Human Pose Estimation, Head Pose Estimati
 ### Human Pose as Compositional Tokens
 **Paper:** [https://arxiv.org/abs/2303.11638](https://arxiv.org/abs/2303.11638)<br>
 **Code:** [https://github.com/gengzigang/pct](https://github.com/gengzigang/pct)<br>
-<p>
-<img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_0.gif">
-<img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_1.gif">
-</p>
+<p><img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_0.gif"><img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_1.gif"></p>
 
 ---
 ### DWPose
@@ -297,89 +286,10 @@ AFW (Annotated Faces in the Wild) is a face detection dataset that contains 205 
 ![](https://adwardlee.github.io/view_renderih/static/images/network.png)
 
 ---
-## Object Pose Estimation
-
-### [Benchmark for 6D Object Pose ](https://bop.felk.cvut.cz/challenges/bop-challenge-2019/)
-![](https://www.researchgate.net/publication/349533554/figure/fig2/AS:1022725715927041@1620848220597/Benchmark-for-6D-Object-Pose-Estimatio-BOP-43-Note-that-multiple-datasets-for-3D.png)
-
----
-### Real-Time Seamless Single Shot 6D Object Pose Prediction (YOLO-6D)
-**Paper:** [arxiv.org/abs/1711.08848](https://arxiv.org/abs/1711.08848)<br>
-**Code:** [microsoft/singleshotpose](https://github.com/microsoft/singleshotpose)<br>
-
-![](https://camo.githubusercontent.com/803dd24670ed987bc9477d7bf7b63dd54509da2fe945de35e123a82c90006d6a/68747470733a2f2f6274656b696e2e6769746875622e696f2f73696e676c655f73686f745f706f73652e706e67)
-
----
-### PoseCNN
-**Paper:** [arxiv.org/abs/1711.00199](https://arxiv.org/abs/1711.00199)<br>
-**Code:** [yuxng/PoseCNN](https://github.com/yuxng/PoseCNN)<br>
-
-<iframe width="1163" height="654" src="https://www.youtube.com/embed/ih0cCTxO96Y" title="PoseCNN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
-### DeepIM
-**Paper:** [arxiv.org/abs/1804.00175](https://arxiv.org/abs/1804.00175)<br>
-**Code:** [liyi14/mx-DeepIM](https://github.com/liyi14/mx-DeepIM)<br>
-
-![](https://github.com/liyi14/mx-DeepIM/blob/master/assets/net_structure.png?raw=tru)
-
----
-
-### Segmentation-driven Pose
-**Paper:** [arxiv.org/abs/1812.02541](https://arxiv.org/abs/1812.02541)<br>
-**Code:** [cvlab-epfl/segmentation-driven-pose](https://github.com/cvlab-epfl/segmentation-driven-pose)<br>
-
-![](https://github.com/cvlab-epfl/segmentation-driven-pose/blob/master/images/fig1.jpg?raw=true)
-
----
-### DPOD
-**Paper:** [arxiv.org/abs/1902.11020](https://arxiv.org/abs/1902.11020)<br>
-**Code:** [yashs97/DPOD](https://github.com/yashs97/DPOD)<br>
-<table>
-  <tr>
-  <td><img src="https://github.com/yashs97/DPOD/blob/master/demo_results/demo1.png?raw=true"></td>
-  <td><img src="https://github.com/yashs97/DPOD/blob/master/demo_results/demo2.png?raw=true"></td>
-  </tr>
-</table>
-![](https://d3i71xaburhd42.cloudfront.net/efae64551ff0b38fb6ac938727a001a9892be67f/4-Figure2-1.png)
-
----
-### HO-3D_v3 Dataset
-HO-3D is a dataset with 3D pose annotations for hand and object under severe occlusions from each other.<br>
-**Paper:** [arxiv.org/abs/2107.00887](https://arxiv.org/abs/2107.00887)<br>
-**Github:** [shreyashampali/ho3d](https://github.com/shreyashampali/ho3d)<br>
-![](https://github.com/shreyashampali/ho3d/blob/master/teaser.png?raw=true)
-
----
-### 6D_Pose
-**Paper:** [Semantic keypoint-based pose estimation from single RGB frames](https://arxiv.org/abs/2204.05864)<br>
-**Code:** [https://github.com/yufu-wang/6D_Pose](https://github.com/yufu-wang/6D_Pose)<br>
-![](https://github.com/yufu-wang/6D_Pose/blob/main/data/cover.png?raw=true)
-
----
-### MegaPose
-**Project:** [https://megapose6d.github.io/](https://megapose6d.github.io/)<br>
-**Paper:** [MegaPose: 6D Pose Estimation of Novel Objects via Render & Compare](https://arxiv.org/abs/2212.06870)<br>
-**Code:** [https://github.com/megapose6d/megapose6d](https://github.com/megapose6d/megapose6d)<br>
-![](https://megapose6d.github.io/images/method.png)
-
----
-### Conformal Keypoint Detection
-**Paper:** [Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation](https://arxiv.org/abs/2303.12246)<br>
-**Code:** [https://github.com/NVlabs/ConformalKeypoint](https://github.com/NVlabs/ConformalKeypoint)<br>
-![](https://github.com/NVlabs/ConformalKeypoint/blob/master/assets/poster.png?raw=true)
-
----
-### Diff-DOPE
-**Paper:** [Diff-DOPE: Differentiable Deep Object Pose Estimation](https://arxiv.org/abs/2310.00463)<br>
-![](https://github.com/rkuo2000/AI-course/blob/main/images/Diff-DOPE-architecture.png?raw=true)
-
----
 ## Exercises of Pose Estimation
 
 ### PoseNet
 **Kaggle:** [https://www.kaggle.com/rkuo2000/posenet-pytorch](https://www.kaggle.com/rkuo2000/posenet-pytorch)<br>
-![](https://github.com/rkuo2000/AI-course/blob/main/images/PoseNet_keypoints.png?raw=true)
 **Kaggle:** [https://www.kaggle.com/rkuo2000/posenet-human-pose](https://www.kaggle.com/rkuo2000/posenet-human-pose)<br>
 ![](https://github.com/rkuo2000/AI-course/blob/main/images/PoseNet_bodylines.png?raw=true)
 
