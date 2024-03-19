@@ -127,12 +127,10 @@ Pose Estimation includes Applications, Human Pose Estimation, Head Pose Estimati
 ### Human Pose as Compositional Tokens
 **Paper:** [https://arxiv.org/abs/2303.11638](https://arxiv.org/abs/2303.11638)</br>
 **Code:** [https://github.com/gengzigang/pct](https://github.com/gengzigang/pct)<br>
-<table>
-<tr>
-<td><img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_0.gif"></td>
-<td><img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_1.gif"></td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_0.gif" width="200"/>
+  <img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_1.gif" width="200"/>
+</div>
 
 ---
 ### ViTPose
