@@ -115,7 +115,7 @@ Pose Estimation includes Applications, Human Pose Estimation, Head Pose Estimati
 ### ED-pose
 **Paper:** [Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation](https://arxiv.org/abs/2302.01593)<br>
 **Code:** [https://github.com/IDEA-Research/ED-Pose](https://github.com/IDEA-Research/ED-Pose)<br>
-![](https://github.com/IDEA-Research/ED-Pose/blob/master/figs/edpose_git.jpg?raw=true)
+<img src="[figs/crowd scene.gif](https://github.com/IDEA-Research/ED-Pose/blob/master/figs/crowd%20scene.gif)" style="height:200px" /> <img src="[figs/fast_speed.gif](https://github.com/IDEA-Research/ED-Pose/blob/master/figs/fast_speed.gif?raw=true)" style="height:200px" />
 
 ---
 ### OSX-UBody
