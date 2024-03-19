@@ -98,7 +98,8 @@ Pose Estimation includes Applications, Human Pose Estimation, Head Pose Estimati
 **Paper:** [ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation](https://arxiv.org/abs/2212.04246)<br>
 **Paper:** [ViTPose++: Vision Transformer for Generic Body Pose Estimation](https://arxiv.org/abs/2212.04246)<br>
 **Code:** [https://github.com/ViTAE-Transformer/ViTPose](https://github.com/ViTAE-Transformer/ViTPose)<br>
-<img src="https://media.giphy.com/media/13oe6zo6b2B7CdsOac/giphy.gif"><img src="https://media.giphy.com/media/4JLERHxOEgH0tt5DZO/giphy.gif">
+
+<div><img src="https://media.giphy.com/media/13oe6zo6b2B7CdsOac/giphy.gif"><img src="https://media.giphy.com/media/4JLERHxOEgH0tt5DZO/giphy.gif"></div>
 
 ![](https://cdn.supervisely.com/blog/vitpose-state-of-the-art-pose-estimation-model-in-supervisely/architecture.png?width=800)
 
@@ -123,7 +124,8 @@ Pose Estimation includes Applications, Human Pose Estimation, Head Pose Estimati
 ### Human Pose as Compositional Tokens
 **Paper:** [https://arxiv.org/abs/2303.11638](https://arxiv.org/abs/2303.11638)<br>
 **Code:** [https://github.com/gengzigang/pct](https://github.com/gengzigang/pct)<br>
-<img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_0.gif"><img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_1.gif">
+
+<div><img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_0.gif"><img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_1.gif"></div>
 
 ---
 ### DWPose
