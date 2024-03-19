@@ -11,9 +11,19 @@ Pose Estimation includes Applications, Human Pose Estimation, Head Pose Estimati
 ---
 ## Pose Estimation Applications
 
-### [Pose-controlled Lights](https://github.com/burningion/dab-and-tpose-controlled-lights)
-![](https://github.com/burningion/dab-and-tpose-controlled-lights/raw/master/images/dab-tpose.gif?raw=True)
+### [健身鏡](https://johnsonfitnesslive.com/?action=mirror_pro_intro)
+![](https://johnsonfitnesslive.com/images/mirrorPro-parallax-bg2-img03.gif)
 
+---
+### 運動裁判 (Sport Referee)
+<iframe width="1163" height="654" src="https://www.youtube.com/embed/VZgXUBi_wkM" title="Building an Advanced AI Basketball Referee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1163" height="654" src="https://www.youtube.com/embed/NnJYQxWoUyo" title="【桌球行動裁判】專題作品Demo - AI應用工程師養成班" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+### [馬術治療](https://www.inside.com.tw/article/21711-aigo-interview-aifly)
+![](https://bucket-img.tnlmedia.com/cabinet/files/consoles/1/teams/1/2022/10/iVZJfECzMvwKhiXAfNxdK309wlkBdNx7IKNGZmGV.png)
+
+---
 ### [跌倒偵測](https://www.chinatimes.com/realtimenews/20201203005307-260418?chdtv)
 <table>
   <tr>
@@ -22,48 +32,20 @@ Pose Estimation includes Applications, Human Pose Estimation, Head Pose Estimati
   </tr>
 </table>
 
-### [馬術治療](https://www.inside.com.tw/article/21711-aigo-interview-aifly)
-![](https://bucket-img.tnlmedia.com/cabinet/files/consoles/1/teams/1/2022/10/iVZJfECzMvwKhiXAfNxdK309wlkBdNx7IKNGZmGV.png)
-
-### [健身鏡](https://johnsonfitnesslive.com/?action=mirror_pro_intro)
-![](https://johnsonfitnesslive.com/images/mirrorPro-parallax-bg2-img03.gif)
-
-### 運動裁判 (Sport Referee)
-<iframe width="1163" height="654" src="https://www.youtube.com/embed/VZgXUBi_wkM" title="Building an Advanced AI Basketball Referee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="1163" height="654" src="https://www.youtube.com/embed/NnJYQxWoUyo" title="【桌球行動裁判】專題作品Demo - AI應用工程師養成班" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ### [產線SOP](https://www.inside.com.tw/article/21716-aigo-interview-beseye-alpha)
-以雅文塑膠來說，產線作業員的動作僅集中於上半身，以頭部、頸部、肩膀、手臂、手掌的動作為主。Beseye_alpha 針對需求，複製日本大型製造工廠 AI 模型開發的成功案例、及與客戶多次討論需求、實地作業工作站規劃、實際場域測試資料訓練，開發出一個「肢體律動分析」模型，有效達到降低運算量的目標。
-人體骨幹分析比起臉部辨識來說，除了可以「去識別化」地辨別一個人，免去臉部辨識因必須事先掃描，儲存大量人們的臉部資料，而產生有侵犯個人隱私或資料外洩的疑慮，具有兩個優勢：<br>
 * 距離：人臉辨識技術，可辨識距離大約僅兩公尺以內，而人體骨幹技術不受距離限制，15 公尺外遠距離的人體也能精準偵測，進而分析人體外觀、四肢與臉部的特徵，以達到偵測需求。
 * 角度：在正臉的情況下，臉部辨識的精準度非常高，目前僅有極少數相貌非常相似的同卵雙胞胎能夠騙過臉部辨識技術；但在非正臉的時候，臉部辨識的精準度就會急遽下降。在很多實際使用的場景，並不能要求每個參與者都靠近鏡頭、花幾秒鐘以正臉掃描辨識，在這種情況下，人體骨幹分析就能充分派上用場，它的精準度甚至比「非正臉的人臉辨識」高出 30% 以上。
 
-### [其他應用](https://www.eastwestidea.net/index.php/%E6%9D%90%E6%96%99/item/376)
+---
+### [Pose-controlled Lights](https://github.com/burningion/dab-and-tpose-controlled-lights)
+![](https://github.com/burningion/dab-and-tpose-controlled-lights/raw/master/images/dab-tpose.gif?raw=True)
 
 ---
 ## Human Pose Estimation
+**Benchmark:** [https://paperswithcode.com/task/pose-estimation](https://paperswithcode.com/task/pose-estimation)<br>
 **Blog:** [A 2019 Guide to Huamn Pose Estimatioin](https://heartbeat.comet.ml/a-2019-guide-to-human-pose-estimation-c10b79b64b73#7c7f)<br>
-
-### [Datasets](https://mmpose.readthedocs.io/zh-cn/latest/model_zoo_papers/datasets.html#ubody-cvpr-2023)
-
-#### [UBody](https://osx-ubody.github.io/)
-UBody is a large-scale Upper-Body dataset with the following annotations:<br>
-* 2D whole-body keypoints
-* 3D SMPLX annotations
-* frame validity label
-* person bbox, hand bbox
-![](https://osx-ubody.github.io/static/videos/demo_video.gif)
-
----
-#### [COCO-WholeBody](https://github.com/jin-s13/COCO-WholeBody/)
-![](https://github.com/jin-s13/COCO-WholeBody/blob/master/imgs/Fig1_example.png?raw=true)
-		
----
+	
 ### PoseNet
-<font size="3">
-PoseNet is built to run on lightweight devices such as the browser or mobile device where as<br>
-OpenPose is much more accurate and meant to be ran on GPU powered systems. You can see the performance benchmarks below.<br>
-</font>
 **Paper:**  [arxiv.org/abs/1505.07427](https://arxiv.org/abs/1505.07427)<br>
 **Code:** [rwightman/posenet-pytorch](https://github.com/rwightman/posenet-pytorch)<br>
 **Kaggle:** [PoseNet Pytorch](https://www.kaggle.com/code/rkuo2000/posenet-pytorch)<br>
@@ -118,35 +100,10 @@ OpenPose is much more accurate and meant to be ran on GPU powered systems. You c
 <iframe width="1164" height="655" src="https://www.youtube.com/embed/Y28xXQmju64" title="Episode 6 | Pose Estimation with Ultralytics YOLOv8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-### Group Pose
-**Paper:** [Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation](https://arxiv.org/abs/2308.07313)<br>
-**Code:** [https://github.com/Michel-liu/GroupPose](https://github.com/Michel-liu/GroupPose)<br>
-![](https://github.com/Michel-liu/GroupPose/blob/main/.github/overview.jpg?raw=true)
-
----
-### OSX-UBody
-**Paper:** [One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer](https://arxiv.org/abs/2303.16160)<br>
-**Code:** [https://github.com/IDEA-Research/OSX](https://github.com/IDEA-Research/OSX)<br>
-![](https://github.com/IDEA-Research/OSX/blob/main/assets/grouned_sam_osx_demo.gif?raw=true)
-
----
 ### UniFormer
 **Paper:** [UniFormer: Unifying Convolution and Self-attention for Visual Recognition](https://arxiv.org/abs/2201.09450)<br>
 **Code:** [open-mmlab/uniformer](https://github.com/open-mmlab/mmpose/tree/main/projects/uniformer)<br>
 ![](https://raw.githubusercontent.com/Sense-X/UniFormer/main/figures/framework.png)
-
----
-### ED-pose
-**Paper:** [Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation](https://arxiv.org/abs/2302.01593)<br>
-**Code:** [https://github.com/IDEA-Research/ED-Pose](https://github.com/IDEA-Research/ED-Pose)<br>
-![](https://github.com/IDEA-Research/ED-Pose/blob/master/figs/edpose_git.jpg?raw=true)
-
----
-### DWPose
-**Paper:** [Effective Whole-body Pose Estimation with Two-stages Distillation](https://arxiv.org/abs/2307.15880)<br>
-**Code:** [https://github.com/IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose)<br>
-![](https://github.com/IDEA-Research/DWPose/blob/onnx/resources/lalaland.gif?raw=true)
-![](https://github.com/IDEA-Research/DWPose/blob/onnx/resources/architecture.jpg?raw=true)
 
 ---
 ### MotionBERT
@@ -155,17 +112,16 @@ OpenPose is much more accurate and meant to be ran on GPU powered systems. You c
 ![](https://camo.githubusercontent.com/e8abad05e9dd8b7c0923e0e49c38787056bad9a28826d8c18322ac3c543c662a/68747470733a2f2f6d6f74696f6e626572742e6769746875622e696f2f6173736574732f64656d6f2e676966)
 
 ---
-### MMPose
-**Code:** [https://github.com/open-mmlab/mmpose](https://github.com/open-mmlab/mmpose)<br>
-* support two new datasets: UBody, 300W-LP
-* support for four new algorithms: MotionBERT, DWPose, EDPose, Uniformer
-
-<iframe width="920" height="520" src="https://user-images.githubusercontent.com/15977946/124654387-0fd3c500-ded1-11eb-84f6-24eeddbf4d91.mp4" title="MMPos Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### ED-pose
+**Paper:** [Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation](https://arxiv.org/abs/2302.01593)<br>
+**Code:** [https://github.com/IDEA-Research/ED-Pose](https://github.com/IDEA-Research/ED-Pose)<br>
+![](https://github.com/IDEA-Research/ED-Pose/blob/master/figs/edpose_git.jpg?raw=true)
 
 ---
-### ViTPose
-**Paper:** [ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation
-](https://arxiv.org/abs/2204.12484)<br>
+### OSX-UBody
+**Paper:** [One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer](https://arxiv.org/abs/2303.16160)<br>
+**Code:** [https://github.com/IDEA-Research/OSX](https://github.com/IDEA-Research/OSX)<br>
+![](https://github.com/IDEA-Research/OSX/blob/main/assets/grouned_sam_osx_demo.gif?raw=true)
 
 ---
 ### Human Pose as Compositional Tokens
@@ -177,6 +133,39 @@ OpenPose is much more accurate and meant to be ran on GPU powered systems. You c
 <td><img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_1.gif"></td>
 </tr>
 </table>
+
+---
+### ViTPose
+**Paper:** [ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation](https://arxiv.org/abs/2204.12484)<br>
+**Paper:** [ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation](https://arxiv.org/abs/2212.04246)<br>
+**Paper:** [ViTPose++: Vision Transformer for Generic Body Pose Estimation](https://arxiv.org/abs/2212.04246)<br>
+**Code:** [https://github.com/ViTAE-Transformer/ViTPose](https://github.com/ViTAE-Transformer/ViTPose)<br>
+<p align="center">
+<a href="https://giphy.com/gifs/r3GaZz7H1H6zpuIvPI/fullscreen"><img src="https://media.giphy.com/media/13oe6zo6b2B7CdsOac/giphy.gif"></a>    <a href="https://giphy.com/gifs/FjzrGJxsOzZAXaW7Vi/fullscreen"><img src="https://media.giphy.com/media/4JLERHxOEgH0tt5DZO/giphy.gif"></a>
+</p>
+
+---
+### DWPose
+**Paper:** [Effective Whole-body Pose Estimation with Two-stages Distillation](https://arxiv.org/abs/2307.15880)<br>
+**Code:** [https://github.com/IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose)<br>
+![](https://github.com/IDEA-Research/DWPose/blob/onnx/resources/lalaland.gif?raw=true)
+![](https://github.com/IDEA-Research/DWPose/blob/onnx/resources/architecture.jpg?raw=true)
+
+---
+### Group Pose
+**Paper:** [Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation](https://arxiv.org/abs/2308.07313)<br>
+**Code:** [https://github.com/Michel-liu/GroupPose](https://github.com/Michel-liu/GroupPose)<br>
+![](https://github.com/Michel-liu/GroupPose/blob/main/.github/overview.jpg?raw=true)
+
+---
+### MMPose
+[Algorithms](https://mmpose.readthedocs.io/en/latest/model_zoo_papers/algorithms.html)<br>
+**Code:** [https://github.com/open-mmlab/mmpose](https://github.com/open-mmlab/mmpose)<br>
+* support two new datasets: UBody, 300W-LP
+* support for four new algorithms: MotionBERT, DWPose, EDPose, Uniformer
+
+<iframe width="920" height="520" src="https://user-images.githubusercontent.com/15977946/124654387-0fd3c500-ded1-11eb-84f6-24eeddbf4d91.mp4" title="MMPos Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 ## Face Datasets
 
