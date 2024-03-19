@@ -107,11 +107,13 @@ Pose Estimation includes Applications, Human Pose Estimation, Head Pose Estimati
 **Paper:** [ViTPose++: Vision Transformer for Generic Body Pose Estimation](https://arxiv.org/abs/2212.04246)<br>
 **Code:** [https://github.com/ViTAE-Transformer/ViTPose](https://github.com/ViTAE-Transformer/ViTPose)<br>
 <p align="center">
-<a href="https://giphy.com/gifs/r3GaZz7H1H6zpuIvPI/fullscreen"><img src="https://media.giphy.com/media/13oe6zo6b2B7CdsOac/giphy.gif"></a>    <a href="https://giphy.com/gifs/FjzrGJxsOzZAXaW7Vi/fullscreen"><img src="https://media.giphy.com/media/4JLERHxOEgH0tt5DZO/giphy.gif"></a>
+<img src="https://media.giphy.com/media/13oe6zo6b2B7CdsOac/giphy.gif">
+<img src="https://media.giphy.com/media/4JLERHxOEgH0tt5DZO/giphy.gif">
 </p>
+![](https://cdn.supervisely.com/blog/vitpose-state-of-the-art-pose-estimation-model-in-supervisely/architecture.png?width=800)
 
 ---
-### ED-pose
+### ED-Pose
 **Paper:** [Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation](https://arxiv.org/abs/2302.01593)<br>
 **Code:** [https://github.com/IDEA-Research/ED-Pose](https://github.com/IDEA-Research/ED-Pose)<br>
 <table>
@@ -129,21 +131,18 @@ Pose Estimation includes Applications, Human Pose Estimation, Head Pose Estimati
 
 ---
 ### Human Pose as Compositional Tokens
-**Paper:** [https://arxiv.org/abs/2303.11638](https://arxiv.org/abs/2303.11638)</br>
+**Paper:** [https://arxiv.org/abs/2303.11638](https://arxiv.org/abs/2303.11638)<br>
 **Code:** [https://github.com/gengzigang/pct](https://github.com/gengzigang/pct)<br>
-<table>
-<tr>
-<td><img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_0.gif"></td>
-<td><img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_1.gif"></td>
-</tr>
-</table>
+<p>
+<img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_0.gif">
+<img src="https://github.com/Gengzigang/PCT/raw/main/demo/demo_1.gif">
+</p>
 
 ---
 ### DWPose
 **Paper:** [Effective Whole-body Pose Estimation with Two-stages Distillation](https://arxiv.org/abs/2307.15880)<br>
 **Code:** [https://github.com/IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose)<br>
 ![](https://github.com/IDEA-Research/DWPose/blob/onnx/resources/lalaland.gif?raw=true)
-![](https://github.com/IDEA-Research/DWPose/blob/onnx/resources/architecture.jpg?raw=true)
 
 ---
 ### Group Pose
