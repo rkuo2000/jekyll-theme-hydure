@@ -77,7 +77,15 @@ Modern Magic Chanting (現代魔法詠唱術)
 ![](https://github.com/rkuo2000/AI-course/blob/main/images/Prompting_AnyTool.png?raw=true)
 
 ---
-### 9. 要語言模型摘要文章/論文後寫出簡報/文章
+
+---
+### 9. 自動提示比手工編寫的提示好
+**Paper:** [The Unreasonable Effectiveness of Eccentric Automatic Prompts](https://arxiv.org/html/2402.10949v2)<br>
+**Blog:** [要求AI模仿《星際爭霸戰》能提升效能，但還是用「自動優化」以魔法打敗魔法最有效
+](https://www.techbang.com/posts/113796-asking-the-ai-to-answer-in-the-way-of-a-starcraft-character)<br>
+
+---
+### 10. 要語言模型摘要文章/論文後寫出簡報/文章
 **收集, 啟發, 輸出**<br>
 * 一段一段分析文章中提供了什麼解決方法
 * 如何解決我提出的需求與問題？
@@ -86,13 +94,6 @@ Modern Magic Chanting (現代魔法詠唱術)
 
 <iframe width="988" height="556" src="https://www.youtube.com/embed/iBWJ5rJ_a6I" title="善用ChatGPT，讓專業的你更亮眼 ! | 生成式AI主題論壇" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>**Paper:** [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)<br>
 
----
-## Studies
-
-### Answer in the way of Starcraft character
-**Paper:** [The Unreasonable Effectiveness of Eccentric Automatic Prompts](https://arxiv.org/html/2402.10949v2)<br>
-**Blog:** [要求AI模仿《星際爭霸戰》能提升效能，但還是用「自動優化」以魔法打敗魔法最有效
-](https://www.techbang.com/posts/113796-asking-the-ai-to-answer-in-the-way-of-a-starcraft-character)<br>
 
 <br>
 <br>
