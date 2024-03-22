@@ -341,6 +341,20 @@ session = fo.launch_app(dataset)
 ![](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/raw/main/images/Capture1.PNG)
 
 ---
+### YOLOv9
+**Paper:** [YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information](https://arxiv.org/abs/2402.13616)<br>
+
+**Blog:** [YOLOv9: Advancing the YOLO Legacy](https://learnopencv.com/yolov9-advancing-the-yolo-legacy/)<br>
+![](https://learnopencv.com/wp-content/uploads/2024/02/feature-1.gif)
+**Programmable Gradient Information (PGI)**
+![](https://learnopencv.com/wp-content/uploads/2024/02/pgi1-1024x434.png)
+**GELAN architecture**<br>
+![](https://learnopencv.com/wp-content/uploads/2024/02/glean-1024x432.png)
+
+**Code:** [https://github.com/WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9)<br>
+![](https://github.com/WongKinYiu/yolov9/raw/main/figure/performance.png)
+
+---
 ## Trash Detection
 ### Localize and Classify Wastes on the Streets
 **Paper:** [arxiv.org/abs/1710.11374](https://arxiv.org/abs/1710.11374)<br>
