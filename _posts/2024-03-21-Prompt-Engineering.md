@@ -26,6 +26,10 @@ Modern Magic Chanting (現代魔法詠唱術)
 <iframe width="863" height="486" src="https://www.youtube.com/embed/lwe3_x50_uw?list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI" title="【生成式AI導論 2024】第4講：訓練不了人工智慧？你可以訓練你自己 (中) — 拆解問題與使用工具" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+### 【生成式AI導論 2024】第5講：訓練不了人工智慧？你可以訓練你自己 (下) — 讓語言彼此合作，把一個人活成一個團隊
+<iframe width="1271" height="716" src="https://www.youtube.com/embed/inebiWdQW-4" title="【生成式AI導論 2024】第5講：訓練不了人工智慧？你可以訓練你自己 (下) — 讓語言彼此合作，把一個人活成一個團隊 (開頭有芙莉蓮雷，慎入)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
 ## 神奇的咒語
 不是對所有的模型都有用<br>
 
