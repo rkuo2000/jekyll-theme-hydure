@@ -79,8 +79,7 @@ labels = ["angry", "disgusted", "fearful", "happy", "neutral", "sad", "surprised
 **Dataset:** [https://www.kaggle.com/bachrr/covid-chest-xray](https://www.kaggle.com/bachrr/covid-chest-xray)<br>
 ![](https://i.imgur.com/jZqpV51.png)
 
-**Kaggle:**<br>
-* [https://www.kaggle.com/rkuo2000/covid19-vgg16](https://www.kaggle.com/rkuo2000/covid19-vgg16)
+**Kaggle:** [https://www.kaggle.com/rkuo2000/covid19-vgg16](https://www.kaggle.com/rkuo2000/covid19-vgg16)<br>
 
 ---
 ### FaceMask Classification (人臉口罩辨識)
