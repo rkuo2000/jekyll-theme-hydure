@@ -81,7 +81,6 @@ labels = ["angry", "disgusted", "fearful", "happy", "neutral", "sad", "surprised
 
 **Kaggle:**<br>
 * [https://www.kaggle.com/rkuo2000/covid19-vgg16](https://www.kaggle.com/rkuo2000/covid19-vgg16)
-* [https://www.kaggle.com/rkuo2000/skin-lesion-cnn](https://www.kaggle.com/rkuo2000/skin-lesion-cnn)
 
 ---
 ### FaceMask Classification (人臉口罩辨識)
