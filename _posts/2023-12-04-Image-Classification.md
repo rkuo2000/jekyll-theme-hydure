@@ -194,7 +194,7 @@ model.summary()
 
 ---
 ### Skin Lesion Classification (皮膚病變分類)
-**Dataset:*8 [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)<br>
+**Dataset:** [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)<br>
 ![](https://github.com/rkuo2000/AI-course/blob/main/images/ham10000_dataset.png?raw=true)
 
 7 types of lesions : (picture = 600x450)<br>
