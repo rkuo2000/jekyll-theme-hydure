@@ -137,6 +137,11 @@ export PYTHONPATH=$PATH:/home/yourname/pybullet-gym
 <iframe width="580" height="435" src="https://www.youtube.com/embed/aqAk701ylIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+### OP3 Soccer
+**Paper:** [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://arxiv.org/abs/2304.13653)<br>
+<iframe width="932" height="524" src="https://www.youtube.com/embed/X0Zi_T9o2_0" title="OP3 Soccer: overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 ## RoboCar Gym
 
 ### Pybullet-RoboCar
