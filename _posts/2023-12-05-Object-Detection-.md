@@ -589,12 +589,6 @@ train YOLOv5 for detecting elephant (dataset from OpenImage V6)
 ![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-022-16302-3/MediaObjects/41598_2022_16302_Fig4_HTML.png?as=webp)
 
 ---
-### Identify Military Vehicles in Satellite Imagery
-**Blog:** [Identify Military Vehicles in Satellite Imagery with TensorFlow](https://python.plainenglish.io/identifying-military-vehicles-in-satellite-imagery-with-tensorflow-96015634129d)<br>
-**Dataset:** [Moving and Stationary Target Acquisition and Recognition (MSTAR) Dataset](https://www.sdms.afrl.af.mil/index.php?collection=mstar)<br>
-![](https://github.com/NateDiR/sar_target_recognition_deep_learning/raw/main/images/mstar_example.png)
-
----
 ### Pothole Detection
 **Blog:** [Pothole Detection using YOLOv4](https://learnopencv.com/pothole-detection-using-yolov4-and-darknet/?ck_subscriber_id=638701084)<br>
 **Code:** [yolov4_pothole_detection.ipynb](https://github.com/spmallick/learnopencv/blob/master/Pothole-Detection-using-YOLOv4-and-Darknet/jupyter_notebook/yolov4_pothole_detection.ipynb)<br>
