@@ -6,11 +6,9 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-Modern Magic Chanting (現代魔法詠唱術)
+Prompt Engineering (提示工程)
 
 ---
-# 現代魔法詠唱術
-
 ## 初級入門（免費課程）
 * [Prompt Engineering with Llama 2](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/)<br>
 * [Deep Learning Generative AI short courses](https://www.deeplearning.ai/short-courses/)<br>
