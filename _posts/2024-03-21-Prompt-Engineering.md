@@ -13,6 +13,17 @@ Prompt Engineering (提示工程)
 * [Prompt Engineering with Llama 2](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/)<br>
 * [Deep Learning Generative AI short courses](https://www.deeplearning.ai/short-courses/)<br>
 
+### [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)<br>
+aka **In-Context Prompting**<br>
+* Basic Prompting
+  - Zero-shot
+  - Few-shot
+* Instruction Prompting
+* Self-Consistency Sampling
+* Chain-of-Thought (CoT)
+* Automatic Prompt Design
+* [Augmented Language Models](https://arxiv.org/abs/2302.07842)
+
 ---
 ## 生成式AI導論
 
