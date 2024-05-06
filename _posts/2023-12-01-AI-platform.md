@@ -116,7 +116,7 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
 ### AI HPC
 **HGX A100**<br>
 [搭配HGX A100模組，華碩發表首款搭配SXM形式GPU伺服器](https://www.ithome.com.tw/review/147911)<br>
-<p><img src="https://s4.itho.me/sites/default/files/images/ESC%20N4A-E11_2D%20top%20open.jpg"></p>
+<p><img width="50%" height="50%" src="https://s4.itho.me/sites/default/files/images/ESC%20N4A-E11_2D%20top%20open.jpg"></p>
 
 ---
 ### GPU
