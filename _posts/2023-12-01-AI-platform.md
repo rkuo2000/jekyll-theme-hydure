@@ -43,7 +43,6 @@ AI chips, Hardware, ML Benchrmark, Framework, Open platforms
 
 #### Dojo
 ![](https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/05/Tesla-dojo-tile.jpg?w=1500&quality=82&strip=all&ssl=1)
-#### ExaPod
 ![](https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/10/Screen-Shot-2022-10-01-at-3.09.51-PM.jpg?w=1500&quality=82&strip=all&ssl=1
 )
 [Enter Dojo: Tesla Reveals Design for Modular Supercomputer & D1 Chip](https://www.hpcwire.com/2021/08/20/enter-dojo-tesla-reveals-design-for-modular-supercomputer-d1-chip/)<br>
