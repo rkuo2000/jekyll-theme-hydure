@@ -74,8 +74,7 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
 ## AMD Instinct GPUs
 ### [MI300](https://www.amd.com/en/products/accelerators/instinct/mi300.html)
 304 GPU CUs, 192GB HBM3 memory, 5.3 TB peark theoretical memory bandwidth<br>
-![](https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-14-image-31.jpg)
-
+<p><img width="50%" height="50%" src="https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-14-image-31.jpg"></p>
 ---
 ### [MI200](https://www.amd.com/en/products/accelerators/instinct/mi200.html)
 220 CUs, 128GB HBM2e memory, 3.2TB/s Peak Memory Bandwidth, 400GB/s Peark aggregate Infinity Fabric<br>
