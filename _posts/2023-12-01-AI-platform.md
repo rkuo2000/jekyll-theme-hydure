@@ -15,8 +15,7 @@ AI chips, Hardware, ML Benchrmark, Framework, Open platforms
 
 ---
 **Paper:** [An overview of brain-like computing: Architecture, applications, and future trends](https://www.frontiersin.org/articles/10.3389/fnbot.2022.1041108/full)<br>
-![](https://www.frontiersin.org/files/Articles/1041108/fnbot-16-1041108-HTML-r1/image_m/fnbot-16-1041108-g010.jpg)
-![](https://www.frontiersin.org/files/Articles/1041108/fnbot-16-1041108-HTML-r1/image_m/fnbot-16-1041108-g012.jpg)
+<p><img widht="50%" height="50%" src="https://www.frontiersin.org/files/Articles/1041108/fnbot-16-1041108-HTML-r1/image_m/fnbot-16-1041108-g010.jpg"></p>
 
 ---
 ### [Top 10 AI Chip Makers of 2023: In-depth Guide](https://research.aimultiple.com/ai-chip-makers/)
@@ -77,7 +76,6 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
 ![](https://images.anandtech.com/doci/17054/AMD%20ACP%20Press%20Deck_30.jpg)
 
 ![](https://assets-global.website-files.com/63ebd7a58848e8a8f651aad0/6511c7f9ba82103ccfa55d0c_Datacenter-1-p-1080.png)
-![](https://magnifier.cmoney.tw/wp-content/uploads/2023/06/mi300-h100-comp.jpg)
 
 ---
 ## Nvidia
@@ -89,17 +87,25 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
 
 ---
 ### AI SuperComputer
+<iframe width="630" height="384" src="https://www.youtube.com/embed/FQ_nDdXQ5TA" title="2024 Nvidia GTC大會 八分鐘帶你看精華" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**[DGX B200](https://www.nvidia.com/en-us/data-center/dgx-b200/)**<br>
+![](https://www.storagereview.com/wp-content/uploads/2024/03/Storagereview-GTC-Networking-Switches.jpg)
+
 **DGX GH200**<br>
 ![](https://www.storagereview.com/wp-content/uploads/2023/06/storagereview-nvidia-dgx-gh200-1.jpg)
 ![](https://www.storagereview.com/wp-content/uploads/2023/06/Screenshot-2023-06-26-at-11.28.32-AM.png)
 
+---
 ### AI Data Center
+**DGX SuperPOD with DGX GB200 Systems**<br>
+![](https://www.nvidia.com/content/nvidiaGDC/us/en_US/data-center/dgx-platform/_jcr_content/root/responsivegrid/nv_container_728664875/nv_container/nv_teaser_copy.coreimg.100.410.jpeg/1710779437424/nvidia-dgx-platform.jpeg)
+
 **HGX H200**<br>
 <p><img src="https://cdn.videocardz.com/1/2023/11/NVIDIA-H200-Overview-1536x747.jpg"></p>
 
 ### AI Workstatione/Server (for Enterprise)
 **DGX H100**<br>
-系統每個 H100 Tensor Core GPU 性能平均比以前 GPU 高約 6 倍，搭載 8 個 GPU，每個 GPU 都有一個 Transformer Engine，加速生成式 AI 模型。8 個 H100 GPU 透過 NVIDIA NVLink 連接，形成巨大 GPU，也可擴展 DGXH100 系統，使用 400 Gbps 超低延遲 NVIDIA Quantum InfiniBand 將數百個 DGX H100 節點連線一台 AI 超級電腦，速度是之前網路的兩倍。
 ![](https://static.gigabyte.com/StaticFile/Image/tw/dbdec6b0925ad592a9dc2ecfe09d90f9/ModelSectionChildItem/5832/webp/1920)
 
 ---
