@@ -24,18 +24,19 @@ AI chips, Hardware, ML Benchrmark, Framework, Open platforms
 #### [The Groq LPU™ Inference Engine](https://wow.groq.com/lpu-inference-engine/)
 **Paper:** [A Software-defined Tensor Streaming Multiprocessor for Large-scale Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3470496.3527405)
 ![](https://imageio.forbes.com/specials-images/imageserve/6037f9807842cbd489fa3801/The-Groq-processor-is-unique--acting-as-a-single-fast-core-with-on-die-memory-/960x0.png?format=png&width=1440)
-![](https://imageio.forbes.com/specials-images/imageserve/6037f9e640b8dd29ddc0607d/The-Groq-node-has-four-chips-per-card--similar-to-most-AI-startups-/960x0.png?format=png&width=1440)
+<p><img width="50%" height="50%" src="https://imageio.forbes.com/specials-images/imageserve/6037f9e640b8dd29ddc0607d/The-Groq-node-has-four-chips-per-card--similar-to-most-AI-startups-/960x0.png?format=png&width=1440"></p>
 
 ---
 ### [Rain AI](https://rain.ai/approach)
 #### Digital In-Memory Compute
 <p><img width="50%" height="50%" src="https://images.squarespace-cdn.com/content/v1/65343802e6fb0c67c8ecb591/9b225d68-dd82-4597-8678-060fb97e4af6/Screen+Shot+2023-12-01+at+10.00.51+AM.png?format=1000"></p>
+
 #### Numerics
 <p><img width="50%" height="50%" src="https://images.squarespace-cdn.com/content/v1/65343802e6fb0c67c8ecb591/d596c0d7-5516-4573-a6bd-b7a41155fe71/numerics.png?format=1000w"></p>
 
 ---
 ### [Cerebras](https://www.cerebras.net/blog/cerebras-architecture-deep-dive-first-look-inside-the-hw/sw-co-design-for-deep-learning)
-![](https://www.cerebras.net/wp-content/uploads/2022/08/fabric-uai-1032x696.jpg)
+<p><img width="50%" height="50%" src="https://www.cerebras.net/wp-content/uploads/2022/08/fabric-uai-1032x696.jpg"></p>
 
 ---
 #### [Tesla AI](https://www.tesla.com/AI)
