@@ -23,8 +23,8 @@ AI chips, Hardware, ML Benchrmark, Framework, Open platforms
 ### Groq
 #### [The Groq LPU™ Inference Engine](https://wow.groq.com/lpu-inference-engine/)
 **Paper:** [A Software-defined Tensor Streaming Multiprocessor for Large-scale Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3470496.3527405)
-![](https://imageio.forbes.com/specials-images/imageserve/6037f9807842cbd489fa3801/The-Groq-processor-is-unique--acting-as-a-single-fast-core-with-on-die-memory-/960x0.png?format=png&width=1080)
-<p><img width="80%" height="80%" src="https://imageio.forbes.com/specials-images/imageserve/6037f9e640b8dd29ddc0607d/The-Groq-node-has-four-chips-per-card--similar-to-most-AI-startups-/960x0.png?format=png&width=1080"></p>
+<p><img width="80%" height="80%" src="https://imageio.forbes.com/specials-images/imageserve/6037f9807842cbd489fa3801/The-Groq-processor-is-unique--acting-as-a-single-fast-core-with-on-die-memory-/960x0.png"></p>
+<p><img width="80%" height="80%" src="https://imageio.forbes.com/specials-images/imageserve/6037f9e640b8dd29ddc0607d/The-Groq-node-has-four-chips-per-card--similar-to-most-AI-startups-/960x0.png"></p>
 
 ---
 ### [Rain AI](https://rain.ai/approach)
