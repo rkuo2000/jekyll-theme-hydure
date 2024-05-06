@@ -29,13 +29,12 @@ AI chips, Hardware, ML Benchrmark, Framework, Open platforms
 ---
 ### [Rain AI](https://rain.ai/approach)
 #### Digital In-Memory Compute
-![](https://images.squarespace-cdn.com/content/v1/65343802e6fb0c67c8ecb591/9b225d68-dd82-4597-8678-060fb97e4af6/Screen+Shot+2023-12-01+at+10.00.51+AM.png?format=1000w)
+<p><img width="50%" height="50%" src="https://images.squarespace-cdn.com/content/v1/65343802e6fb0c67c8ecb591/9b225d68-dd82-4597-8678-060fb97e4af6/Screen+Shot+2023-12-01+at+10.00.51+AM.png?format=1000"></p>
 #### Numerics
-![](https://images.squarespace-cdn.com/content/v1/65343802e6fb0c67c8ecb591/d596c0d7-5516-4573-a6bd-b7a41155fe71/numerics.png?format=1000w)
+<p><img width="50%" height="50%" src="https://images.squarespace-cdn.com/content/v1/65343802e6fb0c67c8ecb591/d596c0d7-5516-4573-a6bd-b7a41155fe71/numerics.png?format=1000w"></p>
 
 ---
 ### [Cerebras](https://www.cerebras.net/blog/cerebras-architecture-deep-dive-first-look-inside-the-hw/sw-co-design-for-deep-learning)
-![](https://www.cerebras.net/wp-content/uploads/2022/08/datapath-dataflow.jpg)
 ![](https://www.cerebras.net/wp-content/uploads/2022/08/fabric-uai-1032x696.jpg)
 
 ---
