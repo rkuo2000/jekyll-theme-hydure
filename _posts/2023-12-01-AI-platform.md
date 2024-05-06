@@ -15,7 +15,7 @@ AI chips, Hardware, ML Benchrmark, Framework, Open platforms
 
 ---
 **Paper:** [An overview of brain-like computing: Architecture, applications, and future trends](https://www.frontiersin.org/articles/10.3389/fnbot.2022.1041108/full)<br>
-<p><img widht="50%" height="50%" src="https://www.frontiersin.org/files/Articles/1041108/fnbot-16-1041108-HTML-r1/image_m/fnbot-16-1041108-g010.jpg"></p>
+<p><img width="50%" height="50%" src="https://www.frontiersin.org/files/Articles/1041108/fnbot-16-1041108-HTML-r1/image_m/fnbot-16-1041108-g010.jpg"></p>
 
 ---
 ### [Top 10 AI Chip Makers of 2023: In-depth Guide](https://research.aimultiple.com/ai-chip-makers/)
