@@ -126,6 +126,11 @@ SDXL consists of an ensemble of experts pipeline for latent diffusion: In a firs
 ![](https://github.com/wengzejia1/Open-VCLIP/blob/main/figures/firstpage.png?raw=true)
 
 ---
+### [DyST](https://dyst-paper.github.io/)
+**Paper:** [DyST: Towards Dynamic Neural Scene Representations on Real-World Videos]()<br>
+<video controls><source src="https://dyst-paper.github.io/data/teaser.mp4" type="video/mp4"></video>
+  
+---
 ## Text-to-Motion
 
 ### TMR
