@@ -135,6 +135,12 @@ representation fine-tuning (ReFT) library, a Powerful, Parameter-Efficient, and 
 **Code:** [https://github.com/xfactlab/orpo](https://github.com/xfactlab/orpo)<br>
 **Blog:** [Fine-tune Llama 3 with ORPO](https://huggingface.co/blog/mlabonne/orpo-llama-3)<br>
 
+---
+### FlagEmbedding
+**model:** [namespace-Pt/Llama-3-8B-Instruct-80K-QLoRA](https://huggingface.co/namespace-Pt/Llama-3-8B-Instruct-80K-QLoRA)<br>
+**Paper:** [Extending Llama-3's Context Ten-Fold Overnight](https://arxiv.org/abs/2404.19553)<br>
+**Code:** [https://github.com/FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)<br>
+
 <br>
 <br>
 
