@@ -87,9 +87,8 @@ Introduction to LLM Fine-Tuning
 **Blog:** [2080 Ti就能跑70B大模型，上交大新框架让LLM推理增速11倍](https://mp.weixin.qq.com/s/GnEK3xE5EhR5N9Mzs3tOtA)<br>
 
 https://github.com/SJTU-IPADS/PowerInfer/assets/34213478/fe441a42-5fce-448b-a3e5-ea4abb43ba23
-PowerInfer v.s. llama.cpp on a single RTX 4090(24G) running Falcon(ReLU)-40B-FP16 with a 11x speedup!
-<sub>Both PowerInfer and llama.cpp were running on the same hardware and fully utilized VRAM on RTX 4090.</sub>
-
+PowerInfer v.s. llama.cpp on a single RTX 4090(24G) running Falcon(ReLU)-40B-FP16 with a 11x speedup!<br>
+Both PowerInfer and llama.cpp were running on the same hardware and fully utilized VRAM on RTX 4090.
 
 ---
 ### Eagle
