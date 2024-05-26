@@ -358,6 +358,12 @@ Introduction to Image Datasets, Object Detection, Object Tracking, and its Appli
 ![](https://github.com/WongKinYiu/yolov9/raw/main/figure/performance.png)
 
 ---
+### YOLOv10
+**Paper:** [YOLOv10: Real-Time End-to-End Object Detection](https://arxiv.org/abs/2405.14458)<br>
+**Code:** [https://github.com/THU-MIG/yolov10](https://github.com/THU-MIG/yolov10)<br>
+![](https://github.com/ultralytics/ultralytics/assets/26833433/e0360eb4-3589-4cd1-b362-a8970bceada6)
+
+---
 ## Trash Detection
 ### Localize and Classify Wastes on the Streets
 **Paper:** [arxiv.org/abs/1710.11374](https://arxiv.org/abs/1710.11374)<br>
