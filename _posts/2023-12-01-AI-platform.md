@@ -70,19 +70,8 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
 ![](https://s4.itho.me/sites/default/files/styles/picture_size_large/public/field/image/feng_mian_-guo_ke_hui_-960.jpg?itok=fu9S5jYh)
 
 ---
-## AMD Instinct GPUs
-### [MI300](https://www.amd.com/en/products/accelerators/instinct/mi300.html)
-304 GPU CUs, 192GB HBM3 memory, 5.3 TB peark theoretical memory bandwidth<br>
-<p><img width="50%" height="50%" src="https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-14-image-31.jpg"></p>
-
----
-### [MI200](https://www.amd.com/en/products/accelerators/instinct/mi200.html)
-220 CUs, 128GB HBM2e memory, 3.2TB/s Peak Memory Bandwidth, 400GB/s Peark aggregate Infinity Fabric<br>
-![](https://images.anandtech.com/doci/17054/AMD%20ACP%20Press%20Deck_30.jpg)
-![](https://assets-global.website-files.com/63ebd7a58848e8a8f651aad0/6511c7f9ba82103ccfa55d0c_Datacenter-1-p-1080.png)
-
----
 ## Nvidia
+![](https://factored.ai/wp-content/uploads/2024/04/Chart-2-final-Blog-NVIDIA-2-1200x800.png)
 
 ### CUDA & CuDNN
 * [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) 
@@ -122,6 +111,25 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
 ### GPU
 [GeForce RTX-4090](https://www.techpowerup.com/gpu-specs/geforce-rtx-4090.c3889)
 <p><img src="https://www.pcworld.com/wp-content/uploads/2023/04/geforce-rtx-4090-jensen.jpg" width="50%" height="50%"></p>
+---
+## AMD Instinct GPUs
+### [MI300](https://www.amd.com/en/products/accelerators/instinct/mi300.html)
+304 GPU CUs, 192GB HBM3 memory, 5.3 TB peark theoretical memory bandwidth<br>
+<p><img width="50%" height="50%" src="https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-14-image-31.jpg"></p>
+
+---
+### [MI200](https://www.amd.com/en/products/accelerators/instinct/mi200.html)
+220 CUs, 128GB HBM2e memory, 3.2TB/s Peak Memory Bandwidth, 400GB/s Peark aggregate Infinity Fabric<br>
+![](https://images.anandtech.com/doci/17054/AMD%20ACP%20Press%20Deck_30.jpg)
+![](https://assets-global.website-files.com/63ebd7a58848e8a8f651aad0/6511c7f9ba82103ccfa55d0c_Datacenter-1-p-1080.png)
+
+---
+## Intel
+![](https://habana.ai/wp-content/uploads/2024/04/reference-board.webp)
+
+### Gaudi3
+Intel® Gaudi® 3 accelerator with L2 cache for every 2 MME and 16 TPC unit<br>
+![](https://habana.ai/wp-content/uploads/2024/04/gaudi3-processor-architecture.webp)
 
 ---
 ### AI PC/Notebook
