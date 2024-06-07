@@ -10,6 +10,8 @@ AI chips, Hardware, ML Benchrmark, Framework, Open platforms
 
 ---
 ## AI chips
+![](https://github.com/rkuo2000/AI-course/blob/main/images/All_GPUs_crowd_3nm_at_TSMC.jpg?raw=true)
+
 ### Neuromorphic Computing
 ![](https://www.ece.jhu.edu/dfan/wp-content/uploads/2019/09/brain.jpg)
 
