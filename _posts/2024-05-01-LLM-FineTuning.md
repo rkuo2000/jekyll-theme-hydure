@@ -140,6 +140,11 @@ representation fine-tuning (ReFT) library, a Powerful, Parameter-Efficient, and 
 **Paper:** [Extending Llama-3's Context Ten-Fold Overnight](https://arxiv.org/abs/2404.19553)<br>
 **Code:** [https://github.com/FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)<br>
 
+---
+### Memory-Efficient Inference: Smaller KV Cache with Cross-Layer Attention
+**Paper:** [Reducing Transformer Key-Value Cache Size with Cross-Layer Attention](https://arxiv.org/abs/2405.12981)<br>
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*T4NveajaY-nxdvVj.png)
+
 <br>
 <br>
 
