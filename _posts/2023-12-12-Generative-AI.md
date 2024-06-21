@@ -190,6 +190,11 @@ SDXL consists of an ensemble of experts pipeline for latent diffusion: In a firs
 <iframe width="1103" height="620" src="https://www.youtube.com/embed/jnNHcLdoxNk" title="Outfit Anyone + Animate Anyone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+### [SignLLM](https://signllm.github.io/Prompt2Sign/)
+**Paper:** [SignLLM: Sign Languages Production Large Language Models](https://arxiv.org/abs/2405.10718)<br>
+**Code:** [https://github.com/SignLLM/Prompt2Sign](https://github.com/SignLLM/Prompt2Sign)<br>
+
+---
 ## Text-to-3D
 
 ### Shap-E
@@ -241,10 +246,6 @@ Stable Diffusion in Blender<br>
 `python run.py examples/chair.png --output-dir output/`<br>
 ![](https://yiconghong.me/LRM/static/images/img2nerf_model_figure.jpg)
 
----
-### [SignLLM](https://signllm.github.io/)
-**Paper:** [SignLLM: Sign Languages Production Large Language Models](https://arxiv.org/abs/2405.10718)<br>
-![](https://signllm.github.io/resources/images/cover.drawio.png)
 
 
 <br>
