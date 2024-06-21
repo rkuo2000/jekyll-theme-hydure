@@ -241,6 +241,12 @@ Stable Diffusion in Blender<br>
 `python run.py examples/chair.png --output-dir output/`<br>
 ![](https://yiconghong.me/LRM/static/images/img2nerf_model_figure.jpg)
 
+---
+### [SignLLM](https://signllm.github.io/)
+**Paper:** [SignLLM: Sign Languages Production Large Language Models](https://arxiv.org/abs/2405.10718)<br>
+![](https://signllm.github.io/resources/images/cover.drawio.png)
+
+
 <br>
 <br>
 
