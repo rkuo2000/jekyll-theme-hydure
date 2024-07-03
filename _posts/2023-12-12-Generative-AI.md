@@ -221,6 +221,17 @@ SDXL consists of an ensemble of experts pipeline for latent diffusion: In a firs
 ![](https://chuny1.github.io/3DGPT/static/images/main.png)
 
 ---
+### Advances in 3D Generation : A Survey
+**Paper:** [Advances in 3D Generation: A Survey](https://arxiv.org/html/2401.17807v1)
+
+---
+### [AssetGen](https://assetgen.github.io/)
+**Paper:** [Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials]
+(https://scontent-tpe1-1.xx.fbcdn.net/v/t39.2365-6/449707112_509645168082163_2193712134508658234_n.pdf?_nc_cat=111&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5bSbn3KaluAQ7kNvgFbjbd7&_nc_ht=scontent-tpe1-1.xx&oh=00_AYBM_JROjIFPbm8vwphinNrr4x1bUEFOeLV5iYsR6l_0rA&oe=668B3191)<br>
+![](https://assetgen.github.io/static/teaser/overview.jpg)
+**Paper:** [Meta 3D Gen](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://scontent-tpe1-1.xx.fbcdn.net/v/t39.2365-6/449707112_509645168082163_2193712134508658234_n.pdf?_nc_cat=111&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5bSbn3KaluAQ7kNvgFbjbd7&_nc_ht=scontent-tpe1-1.xx&oh=00_AYBM_JROjIFPbm8vwphinNrr4x1bUEFOeLV5iYsR6l_0rA&oe=668B3191)
+
+---
 ### AI-Render 
 Stable Diffusion in Blender<br>
 **Code:** [https://github.com/benrugg/AI-Render](https://github.com/benrugg/AI-Render)<br>
