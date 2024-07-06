@@ -44,6 +44,8 @@ aka **In-Context Prompting**<br>
 ---
 ## 神奇的咒語
 不是對所有的模型都有用<br>
+![](https://github.com/rkuo2000/AI-course/blob/main/images/prompt_principles_for_instructions.jpg?raw=true)
+![](https://github.com/rkuo2000/AI-course/blob/main/images/chatgpt_cheat_sheet_v2.jpg?raw=true)
 
 ### 1. 要語言模型思考: "Think about it Step-by-Step"
 **Paper:** [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)<br>
