@@ -25,6 +25,8 @@ aka **In-Context Prompting**<br>
 * [Augmented Language Models](https://arxiv.org/abs/2302.07842)
 ![](https://github.com/rkuo2000/AI-course/blob/main/images/LLM_prompt_patterns.jpg?raw=true)
 
+**Blog:** [LLM 各種技巧 | Prompt Engineering 大總結 | 指南](https://medium.com/@cch.chichieh/llm-%E5%90%84%E7%A8%AE%E6%8A%80%E5%B7%A7-prompt-engineering-%E6%8C%87%E5%8D%97-6ac4201a4cbe)<br>
+
 ---
 ## 生成式AI導論
 
