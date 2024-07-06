@@ -23,6 +23,7 @@ aka **In-Context Prompting**<br>
 * Chain-of-Thought (CoT)
 * Automatic Prompt Design
 * [Augmented Language Models](https://arxiv.org/abs/2302.07842)
+![](https://github.com/rkuo2000/AI-course/blob/main/images/LLM_prompt_patterns.jpg?raw=true)
 
 ---
 ## 生成式AI導論
