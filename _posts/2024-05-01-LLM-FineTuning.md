@@ -145,6 +145,25 @@ representation fine-tuning (ReFT) library, a Powerful, Parameter-Efficient, and 
 **Paper:** [Reducing Transformer Key-Value Cache Size with Cross-Layer Attention](https://arxiv.org/abs/2405.12981)<br>
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*T4NveajaY-nxdvVj.png)
 
+---
+## Federated Learning
+**Blog:** [聯盟式學習 (Federated Learning)](https://medium.com/sherry-ai/%E8%81%AF%E7%9B%9F%E5%BC%8F%E5%AD%B8%E7%BF%92-federated-learning-b4cc5af7a9c0)<br>
+**Paper:** [Federated Machine Learning: Concept and Applications](https://arxiv.org/abs/1902.04885)<br>
+Architecture for a horizontal federated learning system<br>
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*IEZFpz4MWZmKboZSGb9OmQ.png)
+Architecture for a vertical federated learning system<br>
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*IEZFpz4MWZmKboZSGb9OmQ.png)
+
+### FATE-LLM
+FATE-LLM is a framework to support federated learning for large language models(LLMs) and small language models(SLMs).<br>
+**Code:** [https://github.com/FederatedAI/FATE-LLM](https://github.com/FederatedAI/FATE-LLM)<br>
+![](https://github.com/FederatedAI/FATE-LLM/raw/main/doc/images/fate-llm-show.png)
+
+### OpenFedLLM
+**Paper:** [OpenFedLLM: Training Large Language Models on Decentralized Private Data via Federated Learning](https://arxiv.org/abs/2402.06954)<br>
+**Code:** [https://github.com/rui-ye/openfedllm](https://github.com/rui-ye/openfedllm)<br>
+![](https://github.com/rui-ye/OpenFedLLM/blob/main/doc/assets/openfedllm-intro.png?raw=true)
+
 <br>
 <br>
 
