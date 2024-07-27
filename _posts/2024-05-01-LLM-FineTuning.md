@@ -164,6 +164,11 @@ FATE-LLM is a framework to support federated learning for large language models(
 **Code:** [https://github.com/rui-ye/openfedllm](https://github.com/rui-ye/openfedllm)<br>
 ![](https://github.com/rui-ye/OpenFedLLM/blob/main/doc/assets/openfedllm-intro.png?raw=true)
 
+---
+## Continual Learning
+**Paper:** [Continual Learning for Large Language Models: A Survey](https://arxiv.org/abs/2402.01364)<br>
+![](https://arxiv.org/html/2402.01364v1/extracted/5385245/figure/multi-stage.png)
+
 <br>
 <br>
 
