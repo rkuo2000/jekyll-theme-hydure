@@ -1,12 +1,12 @@
 ---
 layout: post
-title: PC Software Installation
+title: PC softwares
 author: [Richard Kuo]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-PC Software : Colab, Notepad++, Git-for-Windows, Python3-for-Windows, GPU libraries (CUDA & CuDNN), etc.
+Colab, Notepad++, Git-for-Windows, Python3-for-Windows, GPU libraries (CUDA & CuDNN), etc.
 
 ---
 ## 雲端平台
