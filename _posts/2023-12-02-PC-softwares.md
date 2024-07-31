@@ -23,11 +23,12 @@ Colab, Notepad++, Git-for-Windows, Python3-for-Windows, GPU libraries (CUDA & Cu
 ---
 ## 程式編輯器
 
-### For Windows: install [Notepad++](https://notepad-plus-plus.org/downloads/)
+### For Windows
+* Download [Notepad++ v8.6.9](https://notepad-plus-plus.org/downloads/)
 
-### For Ubuntu / MacOS: no intallation needed, use built-in editors
-* **nano** (for Ubuntu / MacOS)<br>
-* **vim** (for Ubuntu / MacOS)<br>
+### For Ubuntu / MacOS
+* **nano** (for Ubuntu / MacOS)
+* **vim** (for Ubuntu / MacOS)
 
 ---
 ## Linux作業系統模擬器
@@ -42,7 +43,8 @@ Colab, Notepad++, Git-for-Windows, Python3-for-Windows, GPU libraries (CUDA & Cu
 * `mkdir new` (產生新檔案夾)<br>
 * `rm file_name` (移除檔案)<br>
 * `rm –rf directory_name` (移除檔案夾)<br>
-* `df .` (顯示SD卡已用量)<br>
+* `df .` (顯示SSD/硬碟的用量)<br>
+* `df -a` (顯示所有儲存裝置的用量)<br>
 * `du –sh directory` (查看某檔案夾之儲存用量)<br>
 * `free` (檢查動態記憶體用量)<br>
 * `ps –a`   (列出正在執行的程序)<br>
