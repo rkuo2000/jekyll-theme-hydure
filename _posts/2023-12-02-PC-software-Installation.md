@@ -6,31 +6,37 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-PC Software Installation: Editor, GitBash, Python3, Anaconda3, CUDA & CuDNN, Tensorflow & PyTorch installation. 
+PC Software : Colab, Notepad++, Git-for-Windows, Python3-for-Windows, GPU libraries (CUDA & CuDNN), etc.
 
 ---
-## List of PC Software to install
-1. Editor
-2. OS
-3. GPU
-4. Python
-5. Tensorflow/Pytorch
+## 雲端平台
+### Google Colab 教學
+[Google Colab 新手的入門教學](https://tw.alphacamp.co/blog/google-colab)<br>
 
 ---
-### Editor
+## Python 
 
-#### For Windows: install [Notepad++](https://notepad-plus-plus.org/downloads/)
+### [Python Programming](https://www.programiz.com/python-programming)
+
+### [Python Tutorials](https://www.w3schools.com/python/python_intro.asp)
+
+---
+## 程式編輯器
+
+### For Windows: install [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 ### For Ubuntu / MacOS: no intallation needed, use built-in editors
 * **nano** (for Ubuntu / MacOS)<br>
 * **vim** (for Ubuntu / MacOS)<br>
 
 ---
-### Terminal
+## Linux作業系統模擬器
 
-#### install [Git for Windows](https://gitforwindows.org/)
+### [Git-for-Windows](https://gitforwindows.org/)
+**[Download](https://github.com/git-for-windows/git/releases/latest)**<br>
 
-**[Linux Command 命令列指令與基本操作入門教學](https://blog.techbridge.cc/2017/12/23/linux-commnd-line-tutorial/)**<br>
+---
+### [Linux Command 命令列指令與基本操作入門教學](https://blog.techbridge.cc/2017/12/23/linux-commnd-line-tutorial/)
 * `ls -l` (列出目錄檔案)<br>
 * `cd ~` (換目錄)<br>
 * `mkdir new` (產生新檔案夾)<br>
@@ -47,28 +53,34 @@ PC Software Installation: Editor, GitBash, Python3, Anaconda3, CUDA & CuDNN, Ten
 * `clear` (清除螢幕顯示)<br>
 * `history` (列出操作記錄)<br>
 
----
-### install Python3 on Windows PC
-
-**Python3.11.7 for Windows**<br>
-1. Go to [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
-2. Download Windows installer (64-bit)<br>
-3. Customomize installation to set directory to `C:\Python3`
-![](https://img-blog.csdnimg.cn/e6f8a219eefa4bc29b3c120bc4afdbc3.png)
+### [GNU / Linux 各種壓縮與解壓縮指令](https://note.drx.tw/2008/04/command.html)
 
 ---
-### checking Python version on Ubuntu PC
-**Ubuntu 20.04 LTS**<br>
+## Python解譯器
+
+### [Python3 for Windows](https://www.python.org/downloads/windows/)
+Python 3.11.9 - April 2, 2024<br>
+Download [Windows installer (64-bit)](https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe)<br>
+
+### [Windows如何安裝Python3.11](https://ailog.tw/lifelog/2023/01/30/win-python311/#google_vignette)
+
+---
+### Ubuntu OS
 `$ python3 -V`<br>
-Python 3.8.10
+
+**Ubuntu 20.04 LTS**<br>
+Python 3.8.10<br>
 
 **Ubuntu 22.04 LTS**<br>
-`$ python3 -V`<br>
-Python 3.10.4
+Python 3.10.12<br>
+
+**Ubuntu 24.04 LTS**<br>
+Python 3.12.3
 
 ---
-### List of Python packages for installation
-* Open GitBash / Ubuntu Terminal<br>
+### Install Python packages 
+* 啟動 GitBash (啟動 Linux終端機)
+
 `python3 -V`<br>
 `python3 –m pip install --upgrade pip`<br>
 `pip -V`<br>
@@ -78,68 +90,23 @@ Python 3.10.4
 `pip install opencv-python`<br>
 `pip install scikit-learn`<br>
 `git clone https://github.com/rkuo2000/cv2`<br>
-`git clone https://github.com/rkuo2000/tf`<br>
 
 ---
-### install Tensorflow
-1. using pip to install tensorflow<br>
-`pip install tensorflow`<br>
-
-2. using anaconda to install tensorflow<br>
-`$ conda activate tensor`<br>
-`(tensor) $ conda install tensorflow`<br>
-
----
-### install PyTorch
-* [PyTorch get-started](https://pytorch.org/get-started/locally/)<br>
-`pip install torch torchvision`<br>
-
----
-## Learn Programming
-
-### [Python Programming](https://www.programiz.com/python-programming)
-
-### [Tensorflow Turorials](https://www.tensorflow.org/tutorials)
-
-### [PyTorch Tutorials](https://pytorch.org/tutorials/)
-
----
-## Supplement
-
-### Anaconda3  
-*(用於安裝一串版本相容的Python packages)*<br>
-
-**Anaconda3 on Windows**<br>
-* Download [Distribution](https://www.anaconda.com/products/distribution)
-* [Python 初學者的懶人包 Anaconda 下載與安裝](https://walker-a.com/archives/6260)<br>
-
-**Anaconda3 on Ubuntu**<br>
-[How to Install Anaconda on Ubuntu 18.04 and 20.04](https://phoenixnap.com/kb/how-to-install-anaconda-ubuntu-18-04-or-20-04)<br>
-* download Anaconda3<br>
-`$ curl -O https://repo.anaconda.com/archive/Anaconda3-2022.05-Linux-x86_64.sh`<br>
-* install Anaconda3<br>
-`$ bash Anaconda3-2021.11-Linux-x86_64.sh`<br>
-* create env<br>
-`(base) $ conda create -n tensor python=3.9`<br>
-* activate env<br>
-`(base) $ conda activate tensor`<br>
-* deactivate env<br>
-`(tensor) $ conda deactivate`<br>
-* remove an env<br>
-`(base) $ conda-env remove -n tensor`<br> 
-
----
-### GPU acceleration
+### GPU 函式庫安裝
 * [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) 
   - [CUDA installation](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html)
 * [CuDNN](https://developer.nvidia.com/cudnn)
   - [cuDNN installation](https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html)
 
 ---
-## Google Colab
+### [PyTorch get-started](https://pytorch.org/get-started/locally/)<br>
+#### [PyTorch Tutorials](https://pytorch.org/tutorials/)
+`pip install torch torchvision torchaudio`<br>
 
-### Google Colab 教學
-[Google Colab 教學 (1)｜Python 雲端開發環境安裝與快速導覽](https://medium.com/python4u/google-colab-%E6%95%99%E5%AD%B8-1-python-%E9%9B%B2%E7%AB%AF%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D%E8%88%87%E5%BF%AB%E9%80%9F%E5%B0%8E%E8%A6%BD-78942200525f)<br>
+---
+### Tensorflow
+#### [Tensorflow Turorials](https://www.tensorflow.org/tutorials)
+`pip install tensorflow`<br>
 
 <br>
 <br>
