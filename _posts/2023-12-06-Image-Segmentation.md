@@ -193,6 +193,15 @@ The Segment Anything Model (SAM) produces high quality object masks from input p
 ![](https://github.com/CASIA-IVA-Lab/FastSAM/blob/main/assets/Overview.png?raw=true)
 
 ---
+### [SAM 2: Segment Anything in Images and Videos](https://ai.meta.com/sam2/)
+**Blog:** [Introducing SAM 2: The next generation of Meta Segment Anything Model for videos and images](https://ai.meta.com/blog/segment-anything-2/)<br>
+**Paper:** [SAM 2: Segment Anything in Images and Videos](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/)<br>
+**Code:** [https://github.com/facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2)<br>
+![](https://github.com/facebookresearch/segment-anything-2/raw/main/assets/model_diagram.png?raw=true)
+
+---
+## U-Net
+
 ### U-Net
 **Paper:** [arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597)<br>
 **Code:** [U-Net Keras](https://github.com/zhixuhao/unet)<br>
