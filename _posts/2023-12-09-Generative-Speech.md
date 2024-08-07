@@ -179,6 +179,12 @@ SoftVC VITS Singing Voice Conversion 更複雜，因為它需要訓練深度神�
 **Blog:** [GPT-SoVITS 用 AI 快速複製你的聲音，搭配 Colab 免費入門](https://medium.com/dean-lin/gpt-sovits-%E7%94%A8-ai-%E5%BF%AB%E9%80%9F%E8%A4%87%E8%A3%BD%E4%BD%A0%E7%9A%84%E8%81%B2%E9%9F%B3-%E6%90%AD%E9%85%8D-colab-%E5%85%8D%E8%B2%BB%E5%85%A5%E9%96%80-f6a620cf7fc6)<br>
 **Code:** [https://github.com/RVC-Boss/GPT-SoVITS/](https://github.com/RVC-Boss/GPT-SoVITS/)<br>
 
+---
+### LSLM
+**Paper:** [Language Model Can Listen While Speaking](https://arxiv.org/abs/2408.02622)<br>
+![](https://ziyang.tech/LSLM/pic/duplex.png)
+![](https://ziyang.tech/LSLM/pic/model-model.png)
+
 <br>
 <br>
 
