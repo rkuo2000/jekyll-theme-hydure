@@ -112,8 +112,18 @@ Python 3.12.3
 `pip install tensorflow`<br>
 
 ---
+## LLM 安裝
+
 ### Ollama
-#### [Download Ollama on Windows](https://ollama.com/download/windows)
+
+#### [download Ollama on Windows](https://ollama.com/download/windows)
+**Blog** [How to run Ollama on Windows](https://medium.com/@researchgraph/how-to-run-ollama-on-windows-8a1622525ada)<br>
+
+#### [download Ollama on Mac](https://ollama.com/download/mac)
+
+#### [download Ollama on Linux](https://ollama.com/download/linux)
+`curl -fsSL https://ollama.com/install.sh | sh`<br>
+
 ```
 ollama -h
 ollama -v
@@ -121,6 +131,11 @@ ollama pull tinyllama
 ollama list
 ollama run tinyllama
 ```
+
+**[ollama library](https://ollama.com/library)**<br>
+
+---
+### [LM Studio](https://lmstudio.ai/)
 
 <br>
 <br>
