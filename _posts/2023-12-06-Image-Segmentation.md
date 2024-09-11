@@ -198,6 +198,7 @@ The Segment Anything Model (SAM) produces high quality object masks from input p
 **Paper:** [SAM 2: Segment Anything in Images and Videos](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/)<br>
 **Code:** [https://github.com/facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2)<br>
 ![](https://github.com/facebookresearch/segment-anything-2/raw/main/assets/model_diagram.png?raw=true)
+**Kaggle:** [https://www.kaggle.com/code/rkuo2000/segment-anything-2](https://www.kaggle.com/code/rkuo2000/segment-anything-2)<br>
 
 ---
 ## U-Net
