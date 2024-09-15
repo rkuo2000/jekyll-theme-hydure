@@ -6,7 +6,7 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-Prompt Engineering (提示工程)
+Prompt Engineering (提示工程), Chain-of-Thought Prompting
 
 ---
 ## 初級入門（免費課程）
@@ -112,6 +112,23 @@ aka **In-Context Prompting**<br>
 
 <iframe width="988" height="556" src="https://www.youtube.com/embed/iBWJ5rJ_a6I" title="善用ChatGPT，讓專業的你更亮眼 ! | 生成式AI主題論壇" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>**Paper:** [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)<br>
 
+---
+## Chain-of-Thought Prompting
+**Blog:** [How to Make ChatGPT Smarter: Chain of Thought Prompting](https://medium.com/@wadan/how-to-make-chatgpt-smarter-chain-of-thought-prompting-bd796efa1e03)<br>
+
+### [Chain-of-Thought Prompting](https://www.promptingguide.ai/techniques/cot)
+![](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcot.1933d9fe.png&w=1080&q=75)
+
+1. **Zero-shot COT Prompting**
+![](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzero-cot.79793bee.png&w=1080&q=75)
+
+2. **Automatic Chain-of-Thought (Auto-CoT)**
+![](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fauto-cot.642d9bad.png&w=1200&q=75)
+
+---
+### [Chain of thought and ReAct — SQL Agent](https://abvijaykumar.medium.com/prompt-engineering-chain-of-thought-and-react-sql-agent-85fa42575c06)
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*XBh0aKnnFvI5wvpi5LAv4A.png)
+<iframe width="680" height="510" src="https://www.youtube.com/embed/q0SQEIXPE14" title="Demonstration of ReAct in action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 <br>
