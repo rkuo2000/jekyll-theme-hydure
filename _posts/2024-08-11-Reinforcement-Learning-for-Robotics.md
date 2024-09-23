@@ -332,6 +332,30 @@ python3 run_drone_control.py --train 1
 **Blog:** [https://bangqu.com/9Fa2ra.html](https://bangqu.com/9Fa2ra.html)<br>
 ![](https://i3.res.bangqu.com/farm/j/news/2023/12/12/42e2981b43a54c3ac7a8647515a0ecaa.gif)
 
+---
+### [Mobile ALOHA](https://mobile-aloha.github.io/)
+**Paper:** [Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://arxiv.org/abs/2401.02117)<br>
+**Github:** [https://github.com/MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha)<br>
+**Code:** [https://github.com/MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus)<br>
+<iframe width="753" height="422" src="https://www.youtube.com/embed/HaaZ8ss-HP4" title="Mobile ALOHA: Your Housekeeping Robot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+### ALOHA 2
+**Paper:** [ALOHA 2: An Enhanced Low-Cost Hardware for Bimanual Teleoperation](https://arxiv.org/abs/2405.02292)<br>
+<iframe width="942" height="530" src="https://www.youtube.com/embed/PHXQFE-Rteo" title="ALOHA 2: An Enhanced Low-Cost Hardware for Bimanual Teleoperation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+### [ALOHA unleashed](https://aloha-unleashed.github.io/)
+**Paper:** [ALOHA Unleashed: A Simple Recipe for Robot Dexterity](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://aloha-unleashed.github.io/assets/aloha_unleashed.pdf)<br>
+![](<iframe width="942" height="530" src="https://www.youtube.com/embed/1EAsn71O9yA" title="ALOHA Unleashed: Autonomous Policies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
+
+---
+### DemoStart
+**Paper:** [DemoStart: Demonstration-led auto-curriculum applied to sim-to-real with multi-fingered robots](https://arxiv.org/abs/2409.06613)<br>
+**Blog:** [Our latest advances in robot dexterity](https://deepmind.google/discover/blog/advances-in-robot-dexterity/)<br>
+![](https://i.gzn.jp/img/2024/09/13/google-deepmind-robot-arm-aloha-unleashed-demostart/01_m.png)
+![](https://i.gzn.jp/img/2024/09/13/google-deepmind-robot-arm-aloha-unleashed-demostart/02.jpg)
+
 <br>
 <br>
 
