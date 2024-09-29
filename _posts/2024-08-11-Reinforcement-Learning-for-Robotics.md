@@ -361,6 +361,7 @@ python3 run_drone_control.py --train 1
 **Paper:** [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation](https://arxiv.org/abs/2409.01652)<br>
 **Code:** [https://github.com/huangwl18/ReKep](https://github.com/huangwl18/ReKep)<br>
 
+<iframe width="942" height="530" src="https://www.youtube.com/embed/2S8YhBdLdww" title="ReKep | Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 <br>
