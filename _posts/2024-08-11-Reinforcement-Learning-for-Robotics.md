@@ -356,6 +356,12 @@ python3 run_drone_control.py --train 1
 ![](https://i.gzn.jp/img/2024/09/13/google-deepmind-robot-arm-aloha-unleashed-demostart/01_m.png)
 ![](https://i.gzn.jp/img/2024/09/13/google-deepmind-robot-arm-aloha-unleashed-demostart/02.jpg)
 
+---
+### [ReKep](https://rekep-robot.github.io/)
+**Paper:** [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation](https://arxiv.org/abs/2409.01652)<br>
+**Code:** [https://github.com/huangwl18/ReKep](https://github.com/huangwl18/ReKep)<br>
+
+
 <br>
 <br>
 
