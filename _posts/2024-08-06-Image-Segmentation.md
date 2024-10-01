@@ -385,13 +385,9 @@ Mask R-CNN 是個兩階段的架構，第一階段掃描圖像並生成proposals
 
 ### [PointNet](http://stanford.edu/~rqi/pointnet/)
 **Paper:** [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)<br>
-![](http://stanford.edu/~rqi/pointnet/images/teaser.jpg)
 ![](http://stanford.edu/~rqi/pointnet/images/pointnet.jpg)
 **Code:** [charlesq34/pointnet](https://github.com/charlesq34/pointnet)<br>
-**Dataset:** [ModelNet40.zip](http://modelnet.cs.princeton.edu/ModelNet40.zip)<br>
-**Blog:** [PointNet or The First Neural Network to Handle Directly 3D Point Clouds](https://www.digitalnuage.com/pointnet-or-the-first-neural-network-to-handle-directly-3d-point-clouds)<br>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/dm6Pu8Q6GYs" title="PointNet: Deep Learning on Point Sets for 3D Classification & Segmentation (COMP3314 Project Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-**Object Part Segmentation Results**<br>
+![](http://stanford.edu/~rqi/pointnet/images/teaser.jpg)
 ![](http://stanford.edu/~rqi/pointnet/images/segres.jpg)
 
 ---
@@ -404,8 +400,8 @@ Mask R-CNN 是個兩階段的架構，第一階段掃描圖像並生成proposals
 ### [PCPNet](http://geometry.cs.ucl.ac.uk/projects/2018/pcpnet/)
 ![](https://raw.githubusercontent.com/paulguerrero/pcpnet/master/images/teaser.png)
 **Paper:** [PCPNET: Learning Local Shape Properties from Raw Point Clouds](https://arxiv.org/abs/1710.04954)<br>
-
 ![](https://onlinelibrary.wiley.com/cms/asset/3a63c222-1078-405d-a010-1a7f4c3c3634/cgf13343-fig-0002-m.png)
+
 **Code:** [paulguerrero/pcpnet](https://github.com/paulguerrero/pcpnet)<br>
 python eval_pcpnet.py --indir "path/to/dataset" --dataset "dataset.txt" --models "/path/to/model/model_name"
 
@@ -557,21 +553,10 @@ python eval_pcpnet.py --indir "path/to/dataset" --dataset "dataset.txt" --models
 <iframe width="920" height="520" src="https://www.youtube.com/embed/KXpZ6B1YB_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
-### [CityScapes Dataset](https://www.cityscapes-dataset.com/)
-[Cityscapes Examples](https://www.cityscapes-dataset.com/examples/)<br>
-[Cityscapes 3D Benchmark Online](https://www.cityscapes-dataset.com/cityscapes-3d-benchmark-online/)<br>
-<table>
-  <tr>
-  <td><img src="https://www.cityscapes-dataset.com/wordpress/wp-content/uploads/2015/07/zuerich00-300x149.png" /></td>
-  <td><img src="https://www.cityscapes-dataset.com/wordpress/wp-content/uploads/2015/07/jena00-300x150.png" /></td>
-  </tr>
-</table>
-<table>
-  <tr>
-  <td><iframe src="https://www.cityscapes-dataset.com/wordpress/wp-content/uploads/videos/labelExamples.mp4?id=1" frameborder="0" allowfullscreen></iframe></td>
-  <td><iframe src="https://www.cityscapes-dataset.com/wordpress/wp-content/uploads/videos/gpsMotionMeta.mp4?id=3" frameborder="0" allowfullscreen></iframe></td>
-  </tr>
-</table>
+### [CityScapes](https://paperswithcode.com/dataset/cityscapes)
+<p><img width="25%" height="25%" src="https://production-media.paperswithcode.com/datasets/Cityscapes-0000003437-d7b741b4.jpg"></p>
+[Cityscapes Image Pairs](https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs)<br>
+Semantic Segmentation for Improving Automated Driving<br>
 
 ---
 ### [Mapillary Vitas Dataset](https://www.mapillary.com/dataset/vistas)
