@@ -388,7 +388,6 @@ Mask R-CNN 是個兩階段的架構，第一階段掃描圖像並生成proposals
 ![](http://stanford.edu/~rqi/pointnet/images/pointnet.jpg)
 **Code:** [charlesq34/pointnet](https://github.com/charlesq34/pointnet)<br>
 ![](http://stanford.edu/~rqi/pointnet/images/teaser.jpg)
-![](http://stanford.edu/~rqi/pointnet/images/segres.jpg)
 
 ---
 ### PointNet++
