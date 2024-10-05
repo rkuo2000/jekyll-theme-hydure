@@ -153,6 +153,7 @@ Introduction to Image Datasets, Object Detection, Object Tracking, and its Appli
 ---
 ### RetinaNet
 **Paper:** [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)<br>
+**Code:** [keras-retinanet](https://github.com/fizyr/keras-retinanet)<br>
 **Blog:** [RetinaNet 介紹](https://gino6178.medium.com/%E7%89%A9%E4%BB%B6%E5%81%B5%E6%B8%AC-retinanet-%E4%BB%8B%E7%B4%B9-dda4100673bb)
 ![](https://miro.medium.com/max/622/0*ksQqcCYF0iQN_oX2.png)
 從左到右分別用上了<br>
@@ -161,11 +162,6 @@ Introduction to Image Datasets, Object Detection, Object Tracking, and its Appli
 * 類別子網路(Class Subnet)
 * 框子網路(Box Subnet)
 * 以及Anchors
-
-**Blog:** [Review: RetinaNet — Focal Loss](https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4)
-![](https://miro.medium.com/max/600/0*E30eIZ5aCGjhCz9E.gif)
-<iframe width="665" height="382" src="https://www.youtube.com/embed/lZxMklxzm2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-**Code:** [keras-retinanet](https://github.com/fizyr/keras-retinanet)<br>
 
 ---
 ### CornerNet
@@ -212,8 +208,6 @@ Introduction to Image Datasets, Object Detection, Object Tracking, and its Appli
 ---
 ### YOLObile
 **Paper:** [arxiv.org/abs/2009.05697](https://arxiv.org/abs/2009.05697)<br>
-**Blog:** [YOLObile：移動設備上的實時目標檢測](https://twgreatdaily.com/zh-hk/jRnp3HQBd8y1i3sJ_wK9.html)<br>
-![](https://images.twgreatdaily.com/images/elastic/vhk/vhk33XQBd8y1i3sJeRJg.jpg)
 **Code:** [nightsnack/YOLObile](https://github.com/nightsnack/YOLObile)<br>
 <p><img src="https://github.com/nightsnack/YOLObile/raw/master/figure/yolo_demo.jpg" width="50%" height="50%"></p>
 
@@ -260,19 +254,11 @@ Introduction to Image Datasets, Object Detection, Object Tracking, and its Appli
 ![](https://github.com/Megvii-BaseDetection/YOLOX/blob/main/assets/git_fig.png?raw=true)
 
 ---
-### YOLOv5 vs YOLOX
-**Paper:** [Evaluation of YOLO Models with Sliced Inference for Small Object Detection](https://arxiv.org/abs/2203.04799)<br>
-
-<img src="https://www.researchgate.net/publication/359129591/figure/tbl2/AS:1131979458248722@1646896342669/AP50-scores-for-each-bounding-boxes-size-wise.png" width="50%" height="50%"></p>
-
----
 ### CSL-YOLO
 **Paper:** [arxiv.org/abs/2107.04829](https://arxiv.org/abs/2107.04829)<br>
 ![](https://www.researchgate.net/publication/353208773/figure/fig1/AS:1044955464224768@1626148205216/Overall-architecture-of-CSL-YOLO-the-convolution-1x1-is-weights-sharing.ppm)
 **Code:** [D0352276/CSL-YOLO](https://github.com/D0352276/CSL-YOLO)<br>
 ![](https://github.com/D0352276/CSL-YOLO/blob/main/demo/result_img_1.png?raw=true)
-**Camera Demo**<br>
-![](https://github.com/D0352276/CSL-YOLO/blob/main/demo/camera_demo.gif?raw=true)
 
 ---
 ### PP-YOLOE
@@ -286,20 +272,9 @@ Introduction to Image Datasets, Object Detection, Object Tracking, and its Appli
 ---
 ### YOLOv6
 **Blog:** [YOLOv6：又快又准的目标检测框架开源啦](https://tech.meituan.com/2022/06/23/yolov6-a-fast-and-accurate-target-detection-framework-is-opening-source.html)<br>
-* RegVGG是一種簡單又强力的CNN結構，在訓練時使用了性能高的多分支模型，而在推理時使用了速度快、省内存的單路模型，也是更具備速度和精度的均衡。
-<p><img src="https://p0.meituan.net/travelcube/9f7878c7872787f9b8706b28e5e7c611237315.png" width="50%" height="50%"></p>
-
-* EfficientRep將在backbone中stride=2的卷積層换成了stride=2的RepConv層。並且也將CSP-Block修改為RepBlock
-![](https://p0.meituan.net/travelcube/8ec8337d37c2545b8fcf355625854802145939.png)
-* 同樣為了降低在硬體上的延遲，在Neck上的特徵融合結構中也引入了Rep結構。在Neck中使用的是Rep-PAN。
-![](https://p0.meituan.net/travelcube/c37c23c37fd094e05e8cab924659a9d9199592.png)
-* 和YOLOX一樣，YOLOv6也對檢測頭近行了解耦，分開了邊框回歸與類别分類的過程。
-![](https://pic4.zhimg.com/80/v2-3e5868d7f1aadc76d9b112e4cb79719b_720w.jpg)
-
 **Code:** [meituan/YOLOv6](https://github.com/meituan/YOLOv6)<br>
 ![](https://github.com/meituan/YOLOv6/raw/main/assets/picture.png)
 ![](https://p0.meituan.net/travelcube/bc0e60516ae0bcad1c111d7c0c5c3b9e335568.png)
-<iframe width="864" height="486" src="https://www.youtube.com/embed/5GXWvoDzpDU" title="YOLOv6 versus YOLOv5 Nano Object Detection models in 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 ### YOLOv7
@@ -362,6 +337,16 @@ Introduction to Image Datasets, Object Detection, Object Tracking, and its Appli
 **Paper:** [YOLOv10: Real-Time End-to-End Object Detection](https://arxiv.org/abs/2405.14458)<br>
 **Code:** [https://github.com/THU-MIG/yolov10](https://github.com/THU-MIG/yolov10)<br>
 ![](https://github.com/ultralytics/ultralytics/assets/26833433/e0360eb4-3589-4cd1-b362-a8970bceada6)
+
+---
+### YOLOv1 ~ YOLOv10
+**Paper:** [YOLOv1 to YOLOv10: The fastest and most accurate real-time object detection systems](https://arxiv.org/abs/2408.09332)<br>
+
+---
+### YOLOV11
+**Github:** [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br>
+![](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*BsErwdZQJ93Dn-Yt.png)
+![](https://github.com/user-attachments/assets/a311a4ed-bbf2-43b5-8012-5f183a28a845)
 
 ---
 ## Trash Detection
