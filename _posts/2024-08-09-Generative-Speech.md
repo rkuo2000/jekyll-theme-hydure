@@ -203,6 +203,11 @@ faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2
 **Paper:** [OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on E-Branchformer](https://arxiv.org/abs/2401.16658)<br>
 
 ---
+### Qwen-Audio
+**Github:** [https://github.com/QwenLM/Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)<br>
+![](https://github.com/QwenLM/Qwen-Audio/raw/main/assets/framework.png)
+
+---
 ### [Whisper Large-v3](https://huggingface.co/openai/whisper-large-v3)
 **model:** openai/whisper-large-v3<br>
 **model:** openai/whisper-large-v3-turbo<br>
