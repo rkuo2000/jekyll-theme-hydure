@@ -185,6 +185,29 @@ SoftVC VITS Singing Voice Conversion 更複雜，因為它需要訓練深度神�
 ![](https://ziyang.tech/LSLM/pic/duplex.png)
 ![](https://ziyang.tech/LSLM/pic/model-model.png)
 
+---
+## Automatic Speech Recognition (ASR)
+
+### Whisper
+**Paper:** [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356)<br>
+![](https://www.researchgate.net/profile/Zhanibek_Kozhirbayev/publication/376675691/figure/fig2/AS:11431281213642924@1703085158954/Whisper-architecture-representation.png)
+**Kaggle:** [https://www.kaggle.com/code/rkuo2000/whisper](https://www.kaggle.com/code/rkuo2000/whisper)<br>
+
+---
+### [Faster-Whisper](https://github.com/SYSTRAN/faster-whisper)
+faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.<br>
+**Kaggle:** [https://www.kaggle.com/code/rkuo2000/faster-whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)<br>
+
+---
+### [Open Whisper-style Speech Models (OWSM)](https://www.wavlab.org/activities/2024/owsm/)
+**Paper:** [OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on E-Branchformer](https://arxiv.org/abs/2401.16658)<br>
+
+---
+### [Whisper Large-v3](https://huggingface.co/openai/whisper-large-v3)
+**model:** openai/whisper-large-v3<br>
+**model:** openai/whisper-large-v3-turbo<br>
+**Kaggle:** [https://www.kaggle.com/code/rkuo2000/whisper-large-v3-turbo](https://www.kaggle.com/code/rkuo2000/whisper-large-v3-turbo)<br>
+
 <br>
 <br>
 
