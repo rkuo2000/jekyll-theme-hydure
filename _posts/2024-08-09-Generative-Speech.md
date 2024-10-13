@@ -208,6 +208,11 @@ faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2
 ![](https://github.com/QwenLM/Qwen-Audio/raw/main/assets/framework.png)
 
 ---
+### Canary
+**model:** [nvidia/canary-1b](https://huggingface.co/nvidia/canary-1b)<br>
+**Paper:** [Less is More: Accurate Speech Recognition & Translation without Web-Scale Data](https://arxiv.org/abs/2406.19674)<br>
+
+---
 ### [Whisper Large-v3](https://huggingface.co/openai/whisper-large-v3)
 **model:** openai/whisper-large-v3<br>
 **model:** openai/whisper-large-v3-turbo<br>
