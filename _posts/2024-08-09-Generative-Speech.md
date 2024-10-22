@@ -221,6 +221,11 @@ faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2
 **model:** openai/whisper-large-v3-turbo<br>
 **Kaggle:** [https://www.kaggle.com/code/rkuo2000/whisper-large-v3-turbo](https://www.kaggle.com/code/rkuo2000/whisper-large-v3-turbo)<br>
 
+---
+### Meta SpiritLM
+**Blog:** [Meta開源首個多模態語言模型Meta Spirit LM](https://www.ithome.com.tw/news/165587)<br>
+**Code:** [https://github.com/facebookresearch/spiritlm](https://github.com/facebookresearch/spiritlm)<br>
+
 <br>
 <br>
 
