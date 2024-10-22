@@ -173,6 +173,8 @@ FATE-LLM is a framework to support federated learning for large language models(
 ### The Ultimate Guide to Fine-Tuning LLMs
 **Paper:** [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs](https://arxiv.org/html/2408.13296v2)<br>
 
+<iframe width="807" height="454" src="https://www.youtube.com/embed/9vM4p9NN0Ts" title="Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br>
 <br>
 
