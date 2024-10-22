@@ -169,6 +169,10 @@ FATE-LLM is a framework to support federated learning for large language models(
 **Blog:** [How to Prune and Distill Llama-3.1 8B to an NVIDIA Llama-3.1-Minitron 4B Model](https://developer.nvidia.com/blog/how-to-prune-and-distill-llama-3-1-8b-to-an-nvidia-llama-3-1-minitron-4b-model/)<br>
 ![](https://developer-blogs.nvidia.com/wp-content/uploads/2024/08/iterative-model-pruning-distillation-2.png)
 
+---
+### The Ultimate Guide to Fine-Tuning LLMs
+**Paper:** [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs](https://arxiv.org/html/2408.13296v2)<br>
+
 <br>
 <br>
 
