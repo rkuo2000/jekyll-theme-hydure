@@ -401,89 +401,7 @@ Concretely, UDD consists of 3 categories (seacucumber, seaurchin, and scallop) w
 ![](https://d3i71xaburhd42.cloudfront.net/5951ed58d17cc510dd32da3db47c4f0fed08b80e/2-Figure1-1.png)
 
 ---
-## Object Tracking Datasets
-**Paper:** [Deep Learning in Video Multi-Object Tracking: A Survey](https://arxiv.org/abs/1907.12740)<br>
-
-### [Multiple Object Tracking (MOT)](https://motchallenge.net/)
-**[MOT-16](https://motchallenge.net/data/MOT16/)**<br>
-![](https://d3i71xaburhd42.cloudfront.net/ac0d88ca5f75a4a80da90365c28fa26f1a26d4c4/3-Figure1-1.png)
-
----
-### Under-water Ojbect Tracking (UOT)
-**Paper:** [Underwater Object Tracking Benchmark and Dataset](http://www.hstabstractbook.org/index_htm_files/c-PID6132325.pdf)<br>
-**[UOT32](https://www.kaggle.com/landrykezebou/uot32-underwater-object-tracking-dataset)**<br>
-**[UOT100](https://www.kaggle.com/landrykezebou/uot100-underwater-object-tracking-dataset)**<br>
-![](https://github.com/rkuo2000/AI-course/blob/main/images/UOT32.png?raw=true)
-
----
-### Re3 : Real-Time Recurrent Regression Networks for Visual Tracking of Generic Objects
-**Paper:** [arxiv.org/abs/1705.06368](https://arxiv.org/abs/1705-06368)<br>
-**Code:** [moorejee/Re3](https://github.com/moorejee/Re3)<br>
-![](https://github.com/moorejee/Re3/blob/master/demo/output.gif?raw=true)
-
----
-### Deep SORT
-**Paper:** [arxiv.org/abs/1703.07402](https://arxiv.org/abs/1703.07402)<br>
-**Code:** [nwojke/deep_sort](https://github.com/nwojke/deep_sort)<br>
-**Blog:** [Deep SORT多目标跟踪算法代码解析(上)](https://zhuanlan.zhihu.com/p/133678626)<br>
-* **Kalman Filter** to create “Track”,  associate track_i with incoming detection_k
-* A distance metric (**squared Mahalanobis distance**) to quantify the association 
-* an efficient algorithm (**standard Hungarian algorithm**) to associate the data
-
----
-### SiamCAR
-**Paper:** [arxiv.org/abs/1911.07241](https://arxiv.org/abs/1911.07241)<br>
-**Code:** [ohhhyeahhh/SiamCAR](https://github.com/ohhhyeahhh/SiamCAR)<br>
-![](https://media.arxiv-vanity.com/render-output/5247410/x2.png)
-![](https://media.arxiv-vanity.com/render-output/5247410/x1.png)
-
----
-### YOLOv5 + DeepSort
-**Code:** [HowieMa/DeepSORT_YOLOv5_Pytorch](https://github.com/HowieMa/DeepSORT_YOLOv5_Pytorch)<br>
-![](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet/raw/master/MOT16_eval/track_pedestrians.gif?raw=true)
-
----
-### Yolov5 + StrongSORT with OSNet
-**Code:** [Yolov5_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet)<br>
-<table>
-<tr>
-<td><img src="https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet/raw/master/strong_sort/results/output_04.gif"></td>
-<td><img src="https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet/raw/master/strong_sort/results/output_th025.gif"></td>
-</tr>
-</table>
-
----
-### SiamBAN
-**Paper:** [arxiv.org/abs/2003.06761](https://arxiv.org/abs/2003.06761)<br>
-**Code:** [hqucv/siamban](https://github.com/hqucv/siamban)<br>
-**Blog:** [[CVPR2020][SiamBAN] Siamese Box Adaptive Network for Visual Tracking](https://www.bilibili.com/read/cv7541809)
-![](https://i0.hdslb.com/bfs/article/357345f94693ef09cd71406530f42c590a756336.png@942w_444h_progressive.webp)
-![](https://github.com/hqucv/siamban/blob/master/demo/output/12.gif?raw=true)
-![](https://github.com/hqucv/siamban/blob/master/demo/output/34.gif?raw=true)
-
----
-### FairMOT
-**Paper:** [FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking](https://arxiv.org/abs/2004.01888)<br>
-**Code:** [ifzhang/FairMOT](https://github.com/ifzhang/FairMOT)<br>
-![](https://github.com/ifzhang/FairMOT/blob/master/assets/pipeline.png?raw=true)
-
----
-### 3D-ZeF
-**Paper:** [arxiv.org/abs/2006.08466](https://arxiv.org/abs/2006.08466)<br>
-**Code:** [mapeAAU/3D-ZeF](https://github.com/mapeAAU/3D-ZeF)<br>
-![](https://vap.aau.dk/wp-content/uploads/2020/05/setup-300x182.png)
-![](https://vap.aau.dk/wp-content/uploads/2020/05/bitmap.png)
-
----
-## UAV-based Object Detection and Tracking
-**Paper:** [Deep Learning for UAV-based Object Detection and Tracking: A Survey](https://arxiv.org/abs/2110.12638)<br>
-
----
-### Efficient Object Detection Model for Real-Time UAV Applications
-**Paper:** [Efficient Object Detection Model for Real-Time UAV Applications](https://arxiv.org/abs/1906.00786)<br>
-
----
-## Applications
+## Other Applications
 [Satellite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)<br>
 
 ### T-CNN : Tubelets with CNN
@@ -554,12 +472,6 @@ train YOLOv5 for detecting elephant (dataset from OpenImage V6)
 ### Mask R-CNN transfer learning
 **Kaggle:** [Mask RCNN transfer learning](https://www.kaggle.com/hmendonca/mask-rcnn-and-coco-transfer-learning-lb-0-155)
 ![](https://github.com/rkuo2000/AI-course/blob/main/images/Mask_RCNN_transfer_learning.png?raw=true)
-
----
-### YOLOv5 + DeepSort
-**Kaggle:** [YOLOv5 DeepSort](https://kaggle.com/rkuo2000/yolov5-deepsort)<br>
-<iframe width="574" height="323" src="https://www.youtube.com/embed/-NHq7yUAY7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="498" height="280" src="https://www.youtube.com/embed/RKVrtJs1ry8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 ### Objectron
@@ -638,9 +550,136 @@ train YOLOv5 for detecting elephant (dataset from OpenImage V6)
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-16302-3/MediaObjects/41598_2022_16302_Fig2_HTML.png?as=webp)
 ![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-022-16302-3/MediaObjects/41598_2022_16302_Fig4_HTML.png?as=webp)
 
+---
+## Object Tracking Datasets
+**Paper:** [Deep Learning in Video Multi-Object Tracking: A Survey](https://arxiv.org/abs/1907.12740)<br>
+
+### [Multiple Object Tracking (MOT)](https://motchallenge.net/)
+**[MOT-16](https://motchallenge.net/data/MOT16/)**<br>
+![](https://d3i71xaburhd42.cloudfront.net/ac0d88ca5f75a4a80da90365c28fa26f1a26d4c4/3-Figure1-1.png)
+
+---
+### Under-water Ojbect Tracking (UOT)
+**Paper:** [Underwater Object Tracking Benchmark and Dataset](http://www.hstabstractbook.org/index_htm_files/c-PID6132325.pdf)<br>
+**[UOT32](https://www.kaggle.com/landrykezebou/uot32-underwater-object-tracking-dataset)**<br>
+**[UOT100](https://www.kaggle.com/landrykezebou/uot100-underwater-object-tracking-dataset)**<br>
+![](https://github.com/rkuo2000/AI-course/blob/main/images/UOT32.png?raw=true)
+
+---
+### Re3 : Real-Time Recurrent Regression Networks for Visual Tracking of Generic Objects
+**Paper:** [arxiv.org/abs/1705.06368](https://arxiv.org/abs/1705-06368)<br>
+**Code:** [moorejee/Re3](https://github.com/moorejee/Re3)<br>
+![](https://github.com/moorejee/Re3/blob/master/demo/output.gif?raw=true)
+
+---
+### Deep SORT
+**Paper:** [Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402)<br>
+**Code:** [https://github.com/nwojke/deep_sort](https://github.com/nwojke/deep_sort)<br>
+
+---
+### SiamCAR
+**Paper:** [arxiv.org/abs/1911.07241](https://arxiv.org/abs/1911.07241)<br>
+**Code:** [ohhhyeahhh/SiamCAR](https://github.com/ohhhyeahhh/SiamCAR)<br>
+![](https://media.arxiv-vanity.com/render-output/5247410/x2.png)
+![](https://media.arxiv-vanity.com/render-output/5247410/x1.png)
+
+---
+### YOLOv5 + DeepSort
+**Code:** [HowieMa/DeepSORT_YOLOv5_Pytorch](https://github.com/HowieMa/DeepSORT_YOLOv5_Pytorch)<br>
+![](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet/raw/master/MOT16_eval/track_pedestrians.gif?raw=true)
+
+---
+### Yolov5 + StrongSORT with OSNet
+**Code:** [https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet)<br>
+<table>
+<tr>
+<td><img src="https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet/raw/master/strong_sort/results/output_04.gif"></td>
+<td><img src="https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet/raw/master/strong_sort/results/output_th025.gif"></td>
+</tr>
+</table>
+
+---
+### BoxMOT
+**Code:** [BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models]()<br>
+![](https://github.com/mikel-brostrom/boxmot/raw/master/assets/images/track_all_seg_1280_025conf.gif)
+
+---
+### SiamBAN
+**Paper:** [arxiv.org/abs/2003.06761](https://arxiv.org/abs/2003.06761)<br>
+**Code:** [hqucv/siamban](https://github.com/hqucv/siamban)<br>
+**Blog:** [[CVPR2020][SiamBAN] Siamese Box Adaptive Network for Visual Tracking](https://www.bilibili.com/read/cv7541809)
+![](https://i0.hdslb.com/bfs/article/357345f94693ef09cd71406530f42c590a756336.png@942w_444h_progressive.webp)
+![](https://github.com/hqucv/siamban/blob/master/demo/output/12.gif?raw=true)
+![](https://github.com/hqucv/siamban/blob/master/demo/output/34.gif?raw=true)
+
+---
+### FairMOT
+**Paper:** [FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking](https://arxiv.org/abs/2004.01888)<br>
+**Code:** [ifzhang/FairMOT](https://github.com/ifzhang/FairMOT)<br>
+![](https://github.com/ifzhang/FairMOT/blob/master/assets/pipeline.png?raw=true)
+
+---
+### 3D-ZeF
+**Paper:** [arxiv.org/abs/2006.08466](https://arxiv.org/abs/2006.08466)<br>
+**Code:** [mapeAAU/3D-ZeF](https://github.com/mapeAAU/3D-ZeF)<br>
+![](https://vap.aau.dk/wp-content/uploads/2020/05/setup-300x182.png)
+![](https://vap.aau.dk/wp-content/uploads/2020/05/bitmap.png)
+
+---
+### ByteTrack
+**Paper:** [ByteTrack: Multi-Object Tracking by Associating Every Detection Box](https://arxiv.org/abs/2110.06864)<br>
+**Code:** [https://github.com/ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)<br>
+![](https://github.com/ifzhang/ByteTrack/raw/main/assets/teasing.png)
+![](https://github.com/ifzhang/ByteTrack/raw/main/assets/MOT20-08.gif)
+
+---
+### OC-SORT
+**Paper:** [Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking](https://arxiv.org/abs/2203.14360)<br>
+**Code:** [https://github.com/noahcao/OC_SORT](https://github.com/noahcao/OC_SORT)<br>
+![](https://github.com/noahcao/OC_SORT/raw/master/assets/dance_demo.gif)
+
+---
+### Deep OC-SORT
+**Paper:** [Deep OC-SORT: Multi-Pedestrian Tracking by Adaptive Re-Identification](https://arxiv.org/abs/2302.11813)<br>
+**Code:** [https://github.com/GerardMaggiolino/Deep-OC-SORT](https://github.com/GerardMaggiolino/Deep-OC-SORT)<br>
+
+---
+### Track Anything
+**Paper:** [Track Anything: Segment Anything Meets Videos](https://arxiv.org/abs/2304.11968)<br>
+**Cpde:** [https://github.com/gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)<br>
+![](https://github.com/gaomingqi/Track-Anything/raw/master/assets/avengers.gif)
+
+---
+### YOLOv8 + DeepSORT
+**Code:** [https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking)<br>
+
+---
+### MeMOTR
+**Paper:** [MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking](https://arxiv.org/abs/2307.15700)<br>
+**Code:** [https://github.com/MCG-NJU/MeMOTR](https://github.com/MCG-NJU/MeMOTR)<br>
+![](https://github.com/MCG-NJU/MeMOTR/raw/main/assets/overview.png)
+![](https://github.com/MCG-NJU/MeMOTR/raw/main/assets/dancetrack_demo.gif)
+
+---
+### Hybrid-SORT
+**Paper:** [Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking](https://arxiv.org/abs/2308.00783)<br>
+**Code:** [https://github.com/ymzis69/HybridSORT](https://github.com/ymzis69/HybridSORT)<br>
+![](https://github.com/ymzis69/HybridSORT/raw/master/assets/pipeline.png)
+
+---
+### MOTIP
+**Paper:** [Multiple Object Tracking as ID Prediction](https://arxiv.org/abs/2403.16848)<br>
+**Code:** [https://github.com/MCG-NJU/MOTIP](https://github.com/MCG-NJU/MOTIP)<br>
+![](https://github.com/MCG-NJU/MOTIP/raw/main/assets/overview.png)
+
+---
+### LITE
+**Paper:** [LITE: A Paradigm Shift in Multi-Object Tracking with Efficient ReID Feature Integration](https://arxiv.org/abs/2409.04187)<br>
+**Code:** [https://github.com/Jumabek/LITE](https://github.com/Jumabek/LITE)<br>
+The Lightweight Integrated Tracking-Feature Extraction (LITE) paradigm is introduced as a novel multi-object tracking (MOT) approach.<br>
+![](https://github.com/Jumabek/LITE/raw/main/assets/Fig02-6390.png)
+
 <br>
 <br>
 
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
-
-
