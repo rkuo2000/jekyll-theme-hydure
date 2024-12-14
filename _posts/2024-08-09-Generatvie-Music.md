@@ -33,7 +33,7 @@ SEPARATION TOOL WITH PRE-TRAINED MODELS](https://archives.ismir.net/ismir2019/la
 ### Demucs
 **Paper:** [Music Source Separation in the Waveform Domain](https://arxiv.org/abs/1911.13254)<br>
 **Code:** [facebookresearch/demucs](https://github.com/facebookresearch/demucs)<br>
-
+**Kaggle:** [https://www.kaggle.com/code/rkuo2000/demucs](https://www.kaggle.com/code/rkuo2000/demucs)<br>
 ![](https://github.com/facebookresearch/demucs/blob/main/demucs.png?raw=true)
 
 ---
