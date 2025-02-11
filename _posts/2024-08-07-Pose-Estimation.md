@@ -21,7 +21,7 @@ Pose Estimation includes Applications, Human Pose Estimation, Head Pose Estimati
 
 ---
 ### [馬術治療](https://www.inside.com.tw/article/21711-aigo-interview-aifly)
-![](https://bucket-img.tnlmedia.com/cabinet/files/consoles/1/teams/1/2022/10/iVZJfECzMvwKhiXAfNxdK309wlkBdNx7IKNGZmGV.png)
+![](https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/iVZJfECzMvwKhiXAfNxdK309wlkBdNx7IKNGZmGV.png)
 
 ---
 ### [跌倒偵測](https://www.chinatimes.com/realtimenews/20201203005307-260418?chdtv)
