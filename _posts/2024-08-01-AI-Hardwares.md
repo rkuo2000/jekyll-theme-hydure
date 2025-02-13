@@ -145,9 +145,11 @@ Intel® Gaudi® 3 accelerator with L2 cache for every 2 MME and 16 TPC unit<br>
 ![](https://global.discourse-cdn.com/nvidia/optimized/3X/5/a/5af686ee3f4ad71bc44f22e4a9323fe68ed94ba8_2_690x248.jpeg)
 
 ![](https://www.seeedstudio.com/blog/wp-content/uploads/2022/07/NVIDIA-Jetson-comparison_00.png)
+![](https://robotkingdom.com.tw/wp-content/uploads/2024/12/jetson-orin-nano-super-dev-kit-ari.jpeg)
 
 ---
 ### MediaTek
+![](https://i.mediatek.com/hs-fs/hubfs/AI%20Landing%20Page/Images/AI%20Gen%20new_all%20Gen%20NPU.png?width=969&height=305&name=AI%20Gen%20new_all%20Gen%20NPU.png)
 
 #### [天璣 9300](https://www.mediatek.tw/products/smartphones-2/mediatek-dimensity-9300)
 * 單核性能提升超過 15%
