@@ -47,14 +47,8 @@ AI chips, AI hardwares, Edge-AI, Benchrmarks, Frameworks
 
 ---
 ### [Tesla](https://www.tesla.com/AI)
-
-#### Dojo
-![](https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/05/Tesla-dojo-tile.jpg?w=1500&quality=82&strip=all&ssl=1)
-![](https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/10/Screen-Shot-2022-10-01-at-3.09.51-PM.jpg?w=1500&quality=82&strip=all&ssl=1
-)
-[Enter Dojo: Tesla Reveals Design for Modular Supercomputer & D1 Chip](https://www.hpcwire.com/2021/08/20/enter-dojo-tesla-reveals-design-for-modular-supercomputer-d1-chip/)<br>
-
-[Teslas will be 'more intelligent' than HUMANS by 2033 as their microchips already have 36% the capacity of the brain, study reveals](https://www.dailymail.co.uk/sciencetech/article-11206325/Teslas-smarter-humans-2033-microchips-handle-362T-operations-second.html)<br>
+**FSD Chip**<br>
+![](https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/hardware.jpg)
 
 ---
 ## AI Hardwares
@@ -111,13 +105,15 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
 
 ---
 ### GPU
-[GeForce RTX-4090](https://www.techpowerup.com/gpu-specs/geforce-rtx-4090.c3889)
-<p><img src="https://www.pcworld.com/wp-content/uploads/2023/04/geforce-rtx-4090-jensen.jpg" width="50%" height="50%"></p>
+[GeForce RTX-5090](https://www.nvidia.com/zh-tw/geforce/graphics-cards/50-series/)<br>
+[NVIDIA GeForce RTX 5090評測1/24解禁，RTX 5080評測1/30解禁連同RTX 5090開賣](https://www.4gamers.com.tw/news/detail/69559/nvidia-geforce-rtx-5090-reviews-go-live-january-24-rtx-5080-on-january-30)<br>
+![](https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-b50900j-10p-image01.jpg?itok=xfxYvtfG)
+
 ---
-### AMD Instinct GPUs
-#### [MI300](https://www.amd.com/en/products/accelerators/instinct/mi300.html)
+## AMD Instinct GPUs
+### [MI300](https://www.gigabyte.com/tw/Industry-Solutions/amd-instinct-mi300)
 304 GPU CUs, 192GB HBM3 memory, 5.3 TB peark theoretical memory bandwidth<br>
-<p><img width="50%" height="50%" src="https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-14-image-31.jpg"></p>
+![](https://www.gigabyte.com/FileUpload/global/Other/31/Photo/amd-instinct-mi300x.png)
 
 ---
 #### [MI200](https://www.amd.com/en/products/accelerators/instinct/mi200.html)
