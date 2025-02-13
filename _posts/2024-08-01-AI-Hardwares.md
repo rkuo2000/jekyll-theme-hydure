@@ -60,13 +60,8 @@ AI chips, AI hardwares, Edge-AI, Benchrmarks, Frameworks
 ## AI Hardwares
 
 ### Google TPU Cloud
-[Google’s Cloud TPU v4 provides exaFLOPS-scale ML with industry-leading efficiency](https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains)
-![](https://storage.googleapis.com/gweb-cloudblog-publish/images/1_Cloud_TPU_v4.max-1100x1100.jpg)
-One eighth of a TPU v4 pod from Google's world’s largest publicly available ML cluster located in Oklahoma, which runs on ~90% carbon-free energy.<br>
-<br>
-<p><img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/2_Cloud_TPU_v4.max-1400x1400.jpg" width="50%" height="50%"></p>
-TPU v4 is the first supercomputer to deploy a reconfigurable OCS. OCSes dynamically reconfigure their interconnect topology
-Much cheaper, lower power, and faster than Infiniband, OCSes and underlying optical components are <5% of TPU v4’s system cost and <5% of system power.
+[提供2倍以上單位成本效能，Google Cloud第五代TPU登場](https://www.ithome.com.tw/review/162164)<br>
+![](https://s4.itho.me/sites/default/files/images/Google%20TPU%20v5e-2023-12-2.jpg)
 
 ---
 ### TAIDE cloud
