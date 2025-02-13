@@ -78,7 +78,7 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
 
 ---
 ## Nvidia
-![](https://factored.ai/wp-content/uploads/2024/04/Chart-2-final-Blog-NVIDIA-2-1200x800.png)
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*gPajGtDQ-yPGgyFj.gif)
 
 ### CUDA & CuDNN
 * [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) 
