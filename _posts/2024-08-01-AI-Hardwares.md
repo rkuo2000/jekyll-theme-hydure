@@ -151,19 +151,31 @@ Intel® Gaudi® 3 accelerator with L2 cache for every 2 MME and 16 TPC unit<br>
 ### MediaTek
 ![](https://i.mediatek.com/hs-fs/hubfs/AI%20Landing%20Page/Images/AI%20Gen%20new_all%20Gen%20NPU.png?width=969&height=305&name=AI%20Gen%20new_all%20Gen%20NPU.png)
 
+#### [天璣 9400](https://www.mediatek.tw/products/smartphones-2/mediatek-dimensity-9400)
+* Armv9.2 架構優勢
+  - 天璣 9400 率先採用 Armv9.2 架構，擁有先進的 CPU 技術，這一優勢將為全球市場的行動裝置注入強大的架構增益
+* 新一代 Arm Cortex-X925 CPU，主頻為 3.62GHz, 單核性能提升可達 35%, 多核性能提升可達 28%
+* APP 啟動反應 <100ms, 啟動反應誤差 <12ms, 操控一致性顯著提升, 應用程式冷啟動速度提升可達 35%
+* 率先支援先進的 LPDDR5X 10667Mbps 高速記憶體
+* 天璣 9400 採用台積電第二代 3nm 製程 - 功耗節省可達 40%
+* Arm Immortalis-G925 光線追蹤 GPU, 天璣 OMM 追光引擎技術
+* 聯發科技第八代 AI 處理器 NPU 890，以先進技術迎接 Agentic AI 浪潮，賦能生成式 AI 偉大創新。 
+  - 率先提供面向開發者的天璣 Agentic AI 引擎
+  - 率先支援端側高品質 AI 影片生成
+  - 率先支持端側 LoRA 訓練
+  - 支援端側高畫質 Diffusion Transformer（DiT）技術
+  - 支援端側混合專家（MoE）模型
+  - Stable Diffusion 性能提升至 2 倍*
+  - 大語言模型（LLM）的提示詞處理性能提升 80%*
+  - 端側多模態 AI 運算性能可達 50 Tokens/秒 *
+  - 功耗節省可達 35% *
+
 #### [天璣 9300](https://www.mediatek.tw/products/smartphones-2/mediatek-dimensity-9300)
 * 單核性能提升超過 15%
 * 多核性能提升超過 40%
 * 4 個 Cortex-X4 CPU 主頻最高可達 3.25GHz
 * 4 個 Cortex-A720 CPU 主頻為 2.0GHz
 * 內置 18MB 超大容量緩存組合，三級緩存（L3）+ 系統緩存（SLC）容量較上一代提升 29%
-
-#### [天璣 8300](https://www.mediatek.tw/products/smartphones-2/mediatek-dimensity-8300)
-* 八核 CPU 包括 4 個 Cortex-A715 大核和 4 個 Cortex-A510 能效核心
-* Mali-G615 GPU
-* 支援 LPDDR5X 8533Mbps 記憶體
-* 支援 UFS 4.0 + 多循環隊列技術（Multi-Circular Queue，MCQ）
-* 高能效 4nm 製程
 
 ---
 ### Kneron
