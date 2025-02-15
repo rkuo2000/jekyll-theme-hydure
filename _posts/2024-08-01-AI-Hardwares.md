@@ -10,9 +10,7 @@ AI chips, AI hardwares, Edge-AI, Benchrmarks, Frameworks
 
 ---
 ## AI chips
-![](https://github.com/rkuo2000/AI-course/blob/main/images/All_GPUs_crowd_3nm_at_TSMC.jpg?raw=true)
 
----
 ### [Etched AI](https://www.etched.com/announcing-etched)
 ![](https://cdn.prod.website-files.com/6570a6bdf377183fb173431e/667a6b7e59b498f452015850_sohu_cropped-p-1600.png)
 
