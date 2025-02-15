@@ -121,11 +121,11 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
 
 ---
 ### Intel
-![](https://habana.ai/wp-content/uploads/2024/04/reference-board.webp)
+<p><img width="50%" height="50%" src="https://habana.ai/wp-content/uploads/2024/04/reference-board.webp"></p>
 
 #### Gaudi3
 Intel® Gaudi® 3 accelerator with L2 cache for every 2 MME and 16 TPC unit<br>
-![](https://habana.ai/wp-content/uploads/2024/04/gaudi3-processor-architecture.webp)
+<p><img width="50%" height="50%" src="https://habana.ai/wp-content/uploads/2024/04/gaudi3-processor-architecture.webp"></p>
 
 ---
 ### AI PC/Notebook
