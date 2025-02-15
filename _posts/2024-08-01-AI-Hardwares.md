@@ -178,6 +178,13 @@ Intel® Gaudi® 3 accelerator with L2 cache for every 2 MME and 16 TPC unit<br>
 * 內置 18MB 超大容量緩存組合，三級緩存（L3）+ 系統緩存（SLC）容量較上一代提升 29%
 
 ---
+### [Kinara](https://kinara.ai/)
+![](https://kinara.ai/wp-content/uploads/ara2_latest.png)
+![](https://kinara.ai/wp-content/uploads/ara-2_2.png)
+[Ara-2](https://kinara.ai/products/kinara-ara-2/)<br>
+the Kinara Ara-2 AI processor, the leader in Edge AI acceleration. This 40 TOPS powerhouse tackles the massive compute demands of Generative AI and transformer-based models with unmatched cost-effectiveness.<br>
+
+---
 ### Kneron
 
 #### KNEO300 EdgeGPT
