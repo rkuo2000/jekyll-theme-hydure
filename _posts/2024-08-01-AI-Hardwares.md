@@ -105,7 +105,7 @@ Meta從無到有訓練Llama 2時，需要上千甚至上萬片A100 GPU，所需�
 ### GPU
 [GeForce RTX-5090](https://www.nvidia.com/zh-tw/geforce/graphics-cards/50-series/)<br>
 [NVIDIA GeForce RTX 5090評測1/24解禁，RTX 5080評測1/30解禁連同RTX 5090開賣](https://www.4gamers.com.tw/news/detail/69559/nvidia-geforce-rtx-5090-reviews-go-live-january-24-rtx-5080-on-january-30)<br>
-![](https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-b50900j-10p-image01.jpg?itok=xfxYvtfG)
+<p><img width="50%" height="50%" src="https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-b50900j-10p-image01.jpg?itok=xfxYvtfG"></p>
 
 ---
 ## AMD Instinct GPUs
