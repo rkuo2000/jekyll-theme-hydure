@@ -168,13 +168,6 @@ Intel® Gaudi® 3 accelerator with L2 cache for every 2 MME and 16 TPC unit<br>
   - 端側多模態 AI 運算性能可達 50 Tokens/秒 *
   - 功耗節省可達 35% *
 
-#### [天璣 9300](https://www.mediatek.tw/products/smartphones-2/mediatek-dimensity-9300)
-* 單核性能提升超過 15%
-* 多核性能提升超過 40%
-* 4 個 Cortex-X4 CPU 主頻最高可達 3.25GHz
-* 4 個 Cortex-A720 CPU 主頻為 2.0GHz
-* 內置 18MB 超大容量緩存組合，三級緩存（L3）+ 系統緩存（SLC）容量較上一代提升 29%
-
 ---
 ### [Kinara](https://kinara.ai/)
 <p>
