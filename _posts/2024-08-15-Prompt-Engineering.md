@@ -140,6 +140,7 @@ aka **In-Context Prompting**<br>
 [17歲高中生寫出「神級Prompt」強化Claude推理能力媲美o1模型，如何實現？](https://www.blocktempo.com/17-year-old-high-schooler-creates-a-prompt-how-to-use-gemini-to-copy-paste-and-develop-games/)
 
 ### Thinking Gemini
+[https://github.com/lanesky/thinking-gemini](https://github.com/lanesky/thinking-gemini)<br>
 <iframe width="781" height="439" src="https://www.youtube.com/embed/GkkWtA6MLXs" title="Thinking Gemini| 复制17岁高中生写的神级Prompt到Gemini" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
