@@ -46,7 +46,7 @@ AI chips, AI hardwares, Edge-AI, Benchrmarks, Frameworks
 ---
 ### [Tesla](https://www.tesla.com/AI)
 **FSD Chip**<br>
-![](https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/hardware.jpg)
+<p><img width="50%" height="50%" src="https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/hardware.jpg"></p>
 
 ---
 ## AI Hardwares
