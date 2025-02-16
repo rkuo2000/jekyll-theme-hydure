@@ -190,6 +190,12 @@ SoftVC VITS Singing Voice Conversion 更複雜，因為它需要訓練深度神�
 ![](https://ziyang.tech/LSLM/pic/model-model.png)
 
 ---
+### BreezyVoice
+**Paper:** [BreezyVoice: Adapting TTS for Taiwanese Mandarin with Enhanced Polyphone Disambiguation -- Challenges and Insights](https://arxiv.org/abs/2501.17790)<br>
+**Code:** [https://github.com/mtkresearch/BreezyVoice](https://github.com/mtkresearch/BreezyVoice)<br>
+![](https://raw.githubusercontent.com/mtkresearch/BreezyVoice/main/images/flowchart.png)
+
+---
 ## Automatic Speech Recognition (ASR)
 
 ### Whisper
