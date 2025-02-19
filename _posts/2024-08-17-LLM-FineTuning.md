@@ -15,7 +15,7 @@ Introduction to LLM Fine-Tuning
 ![](https://eugeneyan.com/assets/lora.jpg)
 
 ---
-### [FlashAttention](https://pypi.org/project/flash-attn/)
+### [FlashAttention](https://github.com/Dao-AILab/flash-attention)
 **Paper:** [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)<br>
 **Blog:** [ELI5: FlashAttention](https://gordicaleksa.medium.com/eli5-flash-attention-5c44017022ad)<br>
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*i4tDdwgvGtXuTIyJpFUn8A.png)
@@ -41,10 +41,9 @@ Introduction to LLM Fine-Tuning
 ![](https://github.com/mit-han-lab/llm-awq/raw/main/figures/overview.png)
 
 ---
-### [FlashAttention](https://pypi.org/project/flash-attn/)
-**Paper:** [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)<br>
-**Blog:** [ELI5: FlashAttention](https://gordicaleksa.medium.com/eli5-flash-attention-5c44017022ad)<br>
-![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*i4tDdwgvGtXuTIyJpFUn8A.png)
+### [FlashAttention-2](https://github.com/Dao-AILab/flash-attention)
+**Paper:** [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691)<br>
+**Code:** [https://github.com/kyegomez/FlashAttention20](https://github.com/kyegomez/FlashAttention20)<br>
 
 ---
 ### Soft-prompt Tuning
@@ -174,6 +173,11 @@ FATE-LLM is a framework to support federated learning for large language models(
 ### Prune and Distill Llama-3.1 8B
 **Blog:** [How to Prune and Distill Llama-3.1 8B to an NVIDIA Llama-3.1-Minitron 4B Model](https://developer.nvidia.com/blog/how-to-prune-and-distill-llama-3-1-8b-to-an-nvidia-llama-3-1-minitron-4b-model/)<br>
 ![](https://developer-blogs.nvidia.com/wp-content/uploads/2024/08/iterative-model-pruning-distillation-2.png)
+
+---
+### [FlashAttention-3](https://github.com/Dao-AILab/flash-attention)
+**Paper:** [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision](https://arxiv.org/abs/2407.08608)<br>
+**Blog:** [https://tridao.me/blog/2024/flash3/](https://tridao.me/blog/2024/flash3/)<br>
 
 ---
 ### The Ultimate Guide to Fine-Tuning LLMs
