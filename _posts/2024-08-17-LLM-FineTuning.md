@@ -41,6 +41,12 @@ Introduction to LLM Fine-Tuning
 ![](https://github.com/mit-han-lab/llm-awq/raw/main/figures/overview.png)
 
 ---
+### [FlashAttention](https://pypi.org/project/flash-attn/)
+**Paper:** [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)<br>
+**Blog:** [ELI5: FlashAttention](https://gordicaleksa.medium.com/eli5-flash-attention-5c44017022ad)<br>
+![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*i4tDdwgvGtXuTIyJpFUn8A.png)
+
+---
 ### Soft-prompt Tuning
 **Paper:** [Soft-prompt Tuning for Large Language Models to Evaluate Bias](https://arxiv.org/abs/2306.04735)<br>
 
