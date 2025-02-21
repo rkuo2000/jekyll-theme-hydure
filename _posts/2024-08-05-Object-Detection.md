@@ -347,10 +347,16 @@ Introduction to Image Datasets, Object Detection, Object Tracking, and its Appli
 **Paper:** [YOLOv1 to YOLOv10: The fastest and most accurate real-time object detection systems](https://arxiv.org/abs/2408.09332)<br>
 
 ---
-### YOLOV11
+### YOLOv11
 **Github:** [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br>
 ![](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*BsErwdZQJ93Dn-Yt.png)
 ![](https://github.com/user-attachments/assets/a311a4ed-bbf2-43b5-8012-5f183a28a845)
+
+---
+### YOLOv12
+**Paper:** [YOLOv12: Attention-Centric Real-Time Object Detectors](https://www.arxiv.org/abs/2502.12524)<br>
+**Code:** [https://github.com/sunsmarterjie/yolov12](https://github.com/sunsmarterjie/yolov12)<br>
+![](https://github.com/sunsmarterjie/yolov12/raw/main/assets/tradeoff.svg)
 
 ---
 ## Trash Detection
